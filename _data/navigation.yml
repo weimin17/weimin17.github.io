@@ -1,0 +1,9 @@
+# main links
+main:
+  - title: Home
+    url: /
+  - title: "Publications"
+    url: /publications/
+  # - title: Experiences
+  #   url: /experiences/
+
