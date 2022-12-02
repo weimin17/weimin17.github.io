@@ -7,11 +7,7 @@
 <loc>http://localhost:4000/publications/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/docs/</loc>
-<lastmod>2022-12-02T12:56:19-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/docs/publications/</loc>
-<lastmod>2022-12-02T12:56:19-05:00</lastmod>
+<loc>http://localhost:4000/images/pub/naacl2022.pdf</loc>
+<lastmod>2022-01-13T00:57:55-05:00</lastmod>
 </url>
 </urlset>
