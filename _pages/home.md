@@ -12,7 +12,7 @@ classes: wide
 
 ## About Me
 
-Hi! I am Weimin Lyu, a Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>.
+Hi! I am Weimin Lyu, a 3rd year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>.
 
 <!-- , with expected graduation in Spring 2024.  -->
 <b>Currently I am looking for Intern - 2023 Summer. My availability date starts from May 1st, 2023 and can be extended to fall semester.</b> 
