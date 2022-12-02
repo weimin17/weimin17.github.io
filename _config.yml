@@ -240,7 +240,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
+  - jekyll-remote-theme
 
 # Archives
 #  Type
@@ -293,4 +293,6 @@ defaults:
       share: false
       related: true
 
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"

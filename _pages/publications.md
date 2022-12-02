@@ -12,63 +12,42 @@ classes: wide2
 
 ## Selected Publications
 
-Full publications can be found [Here](/full-publications/) and in [Google Scholar](https://scholar.google.com/citations?user=izyo6gkAAAAJ).
+Full publications can be found in [Google Scholar](https://scholar.google.com/citations?user=IVed47cAAAAJ&hl=en).
 
 ### Preprint
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css"> 
-<div class="img"><img class="img_responsive" src="/images/pub/arxiv22b.png"></div>  
+<div class="img"><img class="img_responsive" src="/images/pub/tech2022_1.png"></div>  
    <div class="text">         
-     <div class="title"><b>Local Context-Aware Active Domain Adaptation</b></div>         
-     <div class="authors"><u>Tao Sun</u>, Cheng Lu, and Haibin Ling </div> 
-     <div> <em>under review</em> </div>
-     [<a href="https://arxiv.org/abs/2208.12856" target="_blank" rel="nofollow">arXiv</a>][<a href="https://github.com/tsun/LADA" target="_blank" rel="nofollow">Code</a>]  
+     <div class="title"><b>Attention Hijacking in Trojan Transformers</b></div>         
+     <div class="authors"><u>Weimin Lyu</u>, Songzhu Zheng, Tengfei Ma, Haibin Ling, Chao Chen </div> 
+     <div> <em>Tech Report</em> </div>
+     [<a href="https://arxiv.org/abs/2208.04946" target="_blank" rel="nofollow">arXiv</a>]  
    </div>         
  </div> 
 
+<br /><br />
 ---
 
-<div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css"> 
-<div class="img"><img class="img_responsive" src="/images/pub/arxiv22a.png"></div>  
-   <div class="text">         
-     <div class="title"><b>Backdoor Cleansing with Unlabeled Data</b></div>         
-     <div class="authors">Lu Pang, <u>Tao Sun</u>, Haibin Ling, and Chao Chen </div> 
-     <div> <em>under review</em> </div>
-     [<a href="https://arxiv.org/abs/2211.12044" target="_blank" rel="nofollow">arXiv</a>]
-   </div>         
- </div> 
 
----
-
-<div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">   
-   <div class="img"><img class="img_responsive" src="/images/pub/arxiv22c.png"></div>        
-   <div class="text">         
-     <div class="title"><b>Incorporation of Density Scaling Constraint in Density Functional Design via Contrastive Representation Learning</b></div>       
-     <div class="authors">Weiyi Gong, <u>Tao Sun</u>, Hexin Bai, Shah Tanvir ur Rahman Chowdhury, Peng Chu, Anoj Aryal, Jie Yu, Haibin Ling, John P. Perdew, Qimin Yan</div> 
-    <div> <em>under review at npj Computational Materials</em> </div>
-     [<a href="https://arxiv.org/abs/2205.15071" target="_blank" rel="nofollow">arXiv</a>]   
-   </div>         
- </div> 
-
+<!-- <br /><br /> -->
 
 
 ### Conference/Journal 
 
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">   
-<div class="img"><img class="img_responsive" src="/images/pub/aaai23.png"></div>        
+<div class="img"><img class="img_responsive" src="/images/pub/amia2022.jpg"></div>        
    <div class="text">         
-     <div class="title"><b>Domain Adaptation with Adversarial Training on Penultimate Activations</b></div>       
-     <div class="authors"><u>Tao Sun</u>, Cheng Lu, and Haibin Ling </div> 
-    <div> <em>To appear in AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2023</em> </div>
-     [<a href="https://arxiv.org/abs/2208.12853" target="_blank" rel="nofollow">arXiv</a>][<a href="https://github.com/tsun/APA" target="_blank" rel="nofollow">Code</a>]    
+     <div class="title"><b>A Multimodal Transformer: Fusing Clinical Notes With Structured EHR Data for Interpretable In-Hospital Mortality Prediction</b></div>       
+     <div class="authors"><u>Weimin Lyu</u>, Xinyu Dong, Rachel Wong, Songzhu Zheng , Kayley Abell-Hart, Fusheng Wang, Chao Chen </div> 
+    <div> <em>American Medical Informatics Association Annual Symposium (<b>AMIA</b>), 2022</em> (<b style="color:red;">Best Student Paper Normination</b>) </div>
+     [<a href="https://arxiv.org/abs/2208.10240" target="_blank" rel="nofollow">arXiv</a>]
    </div>         
  </div> 
 
 ---
-
+<!-- 
 <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">    
 <div class="img"><img class="img_responsive" src="/images/pub/eccv22.png"></div>      
@@ -104,4 +83,4 @@ Full publications can be found [Here](/full-publications/) and in [Google Schola
      <div>   <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>PAMI</b>), 44(6):2953-2967, 2022.</em> </div>
      [<a href="https://ieeexplore.ieee.org/document/9318552" target="_blank" rel="nofollow">PAMI</a>][<a href="https://arxiv.org/abs/2008.00965" target="_blank" rel="nofollow">arXiv</a>][<a href="https://github.com/BingyaoHuang/CompenNeSt-plusplus" target="_blank" rel="nofollow">Code</a>]
      </div>               
-</div> 
+</div>  -->
