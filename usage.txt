@@ -1,0 +1,6 @@
+
+# build site locally (https://jekyllrb.com/docs/themes/#understanding-gem-based-themes):
+
+bundle exec jekyll serve
+
+# 

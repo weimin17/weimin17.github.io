@@ -12,7 +12,7 @@ classes: wide
 
 ## About Me
 
-Hi! I am Weimin Lyu, a 3rd year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. <b>Currently I am looking for Intern - 2023 Summer/Fall/Winter. My availability date is flexible and can be extended to fall semester.</b> 
+Hi! I am Weimin Lyu, a 3rd year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. <b>Currently I am looking for Intern - 2023 Summer/Fall/Winter. I am interested in both research scientist and software development engineer positions. My availability date is flexible and can be extended to fall semester.</b> 
 
 
 
@@ -137,9 +137,9 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="naacl2022" style="float: left; padding-right: 1.5em; width: 100px; max-height: 100px;" src="/images/industry/yidutech.png">
+	<img title="yidutech" style="float: left; padding-right: 1.5em; padding-down: 1.5em; padding-up: 1.5em; width: 150px; max-height: 300px;" src="/images/industry/yidutech2.jpeg">
 		<div>
-			<b><a href="https://www.yidutechgroup.com/en/index.html" target="_blank" rel="nofollow">Yidu Tech Inc. (Top 10 Artificial Intelligence Enterprises in China (2020))</a></b>, Beijing, China (Aug 2018 - Aug 2020)<br>
+			<b><a href="https://www.yidutechgroup.com/en/index.html" target="_blank" rel="nofollow">Yidu Tech Inc.</a></b> (Top 10 Artificial Intelligence Enterprises in China (2020)), Beijing, China (Aug 2018 - Aug 2020)<br>
 			Consultant (Software Development Engineer)<br>
 			- Smart finger ring developer (Build a sleep lab on your finger!)<br>
             - Develop a sleep tracker: in-depth analysis about your deep sleep, light sleep, blood oxygen levels, heart rate trend, and more<br>
@@ -153,13 +153,13 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="naacl2022" style="float: left; padding-right: 1.5em; width: 100px; max-height: 100px;" src="/images/industry/k2data.png">
+	<img title="k2data" style="float: left; padding-right: 1.5em; width: 150px; max-height: 150px;" src="/images/industry/k2data.png">
 		<div>
-			<b><a href="https://www.k2data.com.cn/" target="_blank" rel="nofollow">K2Data (Top 50 AI Company in China)</a></b>, Beijing, China (May 2018 - Aug 2018)<br>
+			<b><a href="https://www.k2data.com.cn/" target="_blank" rel="nofollow">K2Data</a></b> (Top 50 AI Company in China (2020)), Beijing, China (May 2018 - Aug 2018)<br>
 			Machine Learning Intern<br>
 			<!-- - Serve as the core member in a three-people team; Implement Object Detection (Helmet-Detection Problem) algorithms, and the algorithm has been deployed in over 2,000 factories.<br> -->
 			- Design and implement applications for object detection in real-time video<br>
-            - Increase performance of safety helmet detection to 90\% in industry level<br>
+            - Increase performance of safety helmet detection to 90% in industry level<br>
             - Main contributor in a 3-people team; the algorithm has been deployed in over 2,000 factories<br>
 		</div>
 	</div>
