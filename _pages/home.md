@@ -12,22 +12,21 @@ classes: wide
 
 ## About Me
 
-Hi! I am Weimin Lyu, a 3rd year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>.
+Hi! I am Weimin Lyu, a 3rd year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. <b>Currently I am looking for Intern - 2023 Summer/Fall/Winter. My availability date is flexible and can be extended to fall semester.</b> 
 
-<!-- , with expected graduation in Spring 2024.  -->
-<b>Currently I am looking for Intern - 2023 Summer. My availability date starts from May 1st, 2023 and can be extended to fall semester.</b> 
 
-welyu [at] cs.stonybrook.edu
 
 ## Research Interests
 
-I am broadly interested in Computer Vision and Natural Language Processing. Application areas include Explainable AI (i.e., understanding attention mechanism in BERTs and ViTs under backdoor learning), Multi-modal Transformers (i.e., fusing clinical notes and clinical features for better mortality prediction), Healthcare AI (i.e., Graph Neural Network for Interpretable Opioid Overdose Risk Prediction). 
+I am broadly interested in Computer Vision and Natural Language Processing. Application areas include Trustworthy AI (i.e., robustness and privacy, backdoor attack/detection), Multi-modal Transformers (i.e., fusing multi-modalities under clinical context). My current focus is understanding the vulnerability of neural networks and designing new attacks to make better defenses/detection, applications on transformer (NLP and CV) models.
+
+
 
 
 ## News
 
 - 2022-11: Attended NeruIPS 2022 ~~at New Orleans, LA~~ remotely.
-- 2022-11: Attended AMIA 2022 at Washington D.C., DC.
+- 2022-11: Attended AMIA Symposium 2022 at Washington D.C., DC.
 - 2022-10: Paper "[An Integrated LSTM-HeteroRGNN Model for Interpretable Opioid Overdose Risk Prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9630306/)" is accepted by [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)! 
 - 2022-07: Attended NAACL 2022 at Seattle, WA.
 - 2022-06: Attended CVPR 2022 at New Orleans, LA.
@@ -138,11 +137,30 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
+	<img title="naacl2022" style="float: left; padding-right: 1.5em; width: 100px; max-height: 100px;" src="/images/industry/yidutech.png">
+		<div>
+			<b><a href="https://www.yidutechgroup.com/en/index.html" target="_blank" rel="nofollow">Yidu Tech Inc. (Top 10 Artificial Intelligence Enterprises in China (2020))</a></b>, Beijing, China (Aug 2018 - Aug 2020)<br>
+			Consultant (Software Development Engineer)<br>
+			- Smart finger ring developer (Build a sleep lab on your finger!)<br>
+            - Develop a sleep tracker: in-depth analysis about your deep sleep, light sleep, blood oxygen levels, heart rate trend, and more<br>
+            - Process Photoplethysmography (PPG) signal and movement tracks during sleeping<br>
+  
+		</div>
+	</div>
+</div>
+
+
+
+<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
 	<img title="naacl2022" style="float: left; padding-right: 1.5em; width: 100px; max-height: 100px;" src="/images/industry/k2data.png">
 		<div>
-			<b><a href="https://www.k2data.com.cn/" target="_blank" rel="nofollow">K2Data</a></b>, Beijing, China (May 2018 - Aug 2018)<br>
+			<b><a href="https://www.k2data.com.cn/" target="_blank" rel="nofollow">K2Data (Top 50 AI Company in China)</a></b>, Beijing, China (May 2018 - Aug 2018)<br>
 			Machine Learning Intern<br>
-			- Serve as the core member in a three-people team; Implement Object Detection (Helmet-Detection Problem) algorithms, and the algorithm has been deployed in over 2,000 factories.<br>
+			<!-- - Serve as the core member in a three-people team; Implement Object Detection (Helmet-Detection Problem) algorithms, and the algorithm has been deployed in over 2,000 factories.<br> -->
+			- Design and implement applications for object detection in real-time video<br>
+            - Increase performance of safety helmet detection to 90\% in industry level<br>
+            - Main contributor in a 3-people team; the algorithm has been deployed in over 2,000 factories<br>
 		</div>
 	</div>
 </div>
