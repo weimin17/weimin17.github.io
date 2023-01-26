@@ -12,7 +12,7 @@ classes: wide
 
 ## About Me
 
-Hi! I am Weimin Lyu, a 3rd year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. <b>Currently I am looking for Intern - 2023 Summer/Fall/Winter. I am interested in both research scientist and software development engineer positions. My availability date is flexible and can be extended to fall semester.</b> 
+Hi! I am Weimin Lyu, a 3rd year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. <b>Currently I am looking for Intern - 2023 Summer/Fall/Winter. I am interested in both research scientist and software development engineer positions.</b> 
 
 
 
@@ -48,10 +48,10 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 	<div style="margin: 0px auto;">
 	<img title="TechReport1" style="float: left; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2022_1.png">
 		<div>
-			<b>Attention Hijacking in Trojan Transformers</b><br>
-			<u>Weimin Lyu</u>, Songzhu Zheng, Tengfei Ma, Haibin Ling, Chao Chen<br>
+			<b>Attention-Enhancing Backdoor Attacks against Transformers</b><br>
+			<u>Weimin Lyu</u>, Songzhu Zheng, Haibin Ling, Chao Chen<br>
 			<em>Tech Report</em><br>
-			[<a href="https://arxiv.org/abs/2208.04946" target="_blank" rel="nofollow">arXiv</a>]<br>
+			<!-- [<a href="https://arxiv.org/abs/2208.04946" target="_blank" rel="nofollow">arXiv</a>]<br> -->
 		</div>
 	</div>
 </div>
