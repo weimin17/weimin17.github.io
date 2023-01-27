@@ -43,7 +43,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 ### Preprint
 
 
-
+<!-- 
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto;">
 	<img title="TechReport1" style="float: left; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2022_1.png">
@@ -51,7 +51,19 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 			<b>Attention-Enhancing Backdoor Attacks against Transformers</b><br>
 			<u>Weimin Lyu</u>, Songzhu Zheng, Haibin Ling, Chao Chen<br>
 			<em>Tech Report</em><br>
-			<!-- [<a href="https://arxiv.org/abs/2208.04946" target="_blank" rel="nofollow">arXiv</a>]<br> -->
+		</div>
+	</div>
+</div>
+ -->
+
+<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+	<div style="margin: 0px auto;">
+	<img title="TechReport1" style="float: left; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2022_1.png">
+		<div>
+			<b>Attention Hijacking in Trojan Transformers</b><br>
+			<u>Weimin Lyu</u>, Songzhu Zheng, Tengfei Ma, Haibin Ling, Chao Chen<br>
+			<em>Tech Report</em><br>
+			[<a href="https://arxiv.org/abs/2208.04946" target="_blank" rel="nofollow">arXiv</a>]<br>
 		</div>
 	</div>
 </div>
