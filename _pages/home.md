@@ -103,7 +103,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>A Multimodal Transformer: Fusing Clinical Notes With Structured EHR Data for Interpretable In-Hospital Mortality Prediction</b><br>
 			<u>Weimin Lyu</u>, Xinyu Dong, Rachel Wong, Songzhu Zheng , Kayley Abell-Hart, Fusheng Wang, Chao Chen<br>
-			<em>American Medical Informatics Association Annual Symposium (<b>AMIA</b>), 2022</em> (<b style="color:red;">Best Student Paper Nomination</b>)<br>
+			<em>American Medical Informatics Association Annual Symposium (<b>AMIA</b>), 2022</em> (<b style="color:red;">Student Paper Finalist</b>)<br>
 			[<a href="https://arxiv.org/abs/2208.10240" target="_blank" rel="nofollow">arXiv</a>][<a href="https://github.com/weimin17/Multimodal_Transformer" target="_blank" rel="nofollow">Code</a>]<br>
 		</div>
 	</div>
