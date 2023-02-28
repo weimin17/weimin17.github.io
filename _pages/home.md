@@ -27,7 +27,7 @@ I am broadly interested in Computer Vision and Natural Language Processing. Appl
 
 
 - 2022-10: Paper "[An Integrated LSTM-HeteroRGNN Model for Interpretable Opioid Overdose Risk Prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9630306/)" is accepted by [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)! 
-- 2022-06: Paper "[A Multimodal Transformer: Fusing Clinical Notes With Structured EHR Data for Interpretable In-Hospital Mortality Prediction](https://arxiv.org/abs/2208.10240)" is accepted by [AMIA 2022](https://amia.org/education-events/annual-symposium)! The paper is nominated as the Best Student Paper!
+- 2022-06: Paper "[A Multimodal Transformer: Fusing Clinical Notes With Structured EHR Data for Interpretable In-Hospital Mortality Prediction](https://arxiv.org/abs/2208.10240)" is accepted by [AMIA 2022](https://amia.org/education-events/annual-symposium)! The paper is selected as the Student Paper Finalist!
 - 2022-04: Paper "[A Study of the Attention Abnormality in Trojaned BERTs](https://aclanthology.org/2022.naacl-main.348/)" is accepted by [NAACL 2022](https://2022.naacl.org/)! 
 - 2020-09: Start my Computer Science Ph.D. at Stony Brook University!
 
