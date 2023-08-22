@@ -12,7 +12,7 @@ classes: wide
 
 ## About Me
 
-Hi! I am Weimin Lyu, a 3rd year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. <b>Currently I am looking for Intern - 2023 Summer/Fall/Winter. I am interested in both research scientist and software development engineer positions.</b> 
+Hi! I am Weimin Lyu, a 3rd year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>.  
 
 
 
@@ -147,7 +147,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 
 
-## Industry Experience
+<!-- ## Industry Experience
 
 
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
@@ -172,7 +172,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b><a href="https://www.k2data.com.cn/" target="_blank" rel="nofollow">K2Data</a></b> (Top 50 AI Company in China (2020)), Beijing, China (May 2018 - Aug 2018)<br>
 			Machine Learning Intern<br>
-			<!-- - Serve as the core member in a three-people team; Implement Object Detection (Helmet-Detection Problem) algorithms, and the algorithm has been deployed in over 2,000 factories.<br> -->
+			- Serve as the core member in a three-people team; Implement Object Detection (Helmet-Detection Problem) algorithms, and the algorithm has been deployed in over 2,000 factories.<br>
 			- Design and implement applications for object detection in real-time video<br>
             - Increase performance of safety helmet detection to 90% in industry level<br>
             - Main contributor in a 3-people team; the algorithm has been deployed in over 2,000 factories<br>
@@ -180,3 +180,4 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 	</div>
 </div>
 
+ -->
