@@ -12,7 +12,13 @@ classes: wide
 
 ## About Me
 
-Hi! I am Weimin Lyu, a 4th year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I also  
+
+Hi! I am Weimin Lyu, a 4th year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I have the privilege of collaborating with esteemed professors: 
+<a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow">Haibin Ling</a>, 
+<a href="https://www3.cs.stonybrook.edu/~fuswang/" target="_blank" rel="nofollow">Fusheng Wang</a>, and
+<a href="https://sites.google.com/site/matf0123/" target="_blank" rel="nofollow">Tengfei Ma</a>.
+
+
 
 
 
