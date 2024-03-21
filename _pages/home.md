@@ -12,24 +12,26 @@ classes: wide
 
 ## About Me
 
-Hi! I am Weimin Lyu, a 4th year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>.  
+Hi! I am Weimin Lyu, a 4th year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I also  
 
 
 
 ## Research Interests
 
-My research mainly focuses on <b>Trustworthy AI</b>, especially backdoor attacks/defenses. My goal is to <b>enhance the security of Deep Learning-based models throughout their entire life cycle</b>. The application areas include different tasks across Natural Language Processing and Computer Vision. Experience on explainability in Healthcare and clinical decision making with EHR. Recently I focus on <b>Trustworthy Vision-Language Understanding</b> and <b>Large Language Models</b>.
+My research mainly focuses on <b>Trustworthy AI</b>, especially backdoor attacks/defenses. My goal is to <b>enhance the security of Deep Learning-based models throughout their entire life cycle</b>. The application areas include different tasks across Natural Language Processing and Computer Vision. Experience on explainability in Healthcare and clinical decision making with EHR. Recently I focus on <b>Vision-Language Understanding</b> and <b>Large Language Models</b>.
 
 
 
 
 ## News
 
-- 2023-10: [TAL](https://openreview.net/pdf?id=L7IW2foTq4) is accepted by [Findings of EMNLP 2023](https://2023.emnlp.org/)!
+
+- 2024-03: One paper is accepted by [NAACL 2024](https://2024.naacl.org/)! We introduce a task-agnostic metod for textural backdoor detection. 
+- 2023-10: [TAL](https://aclanthology.org/2023.findings-emnlp.716.pdf) is accepted by [EMNLP 2023](https://2023.emnlp.org/)!
 - 2023-03: Two papers are accepted by [ICLR 2023 Workshop on BANDS](https://iclr23-bands.github.io/)!
 - 2022-10: Paper "[An Integrated LSTM-HeteroRGNN Model for Interpretable Opioid Overdose Risk Prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9630306/)" is accepted by [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)! 
-- 2022-06: Paper "[A Multimodal Transformer: Fusing Clinical Notes With Structured EHR Data for Interpretable In-Hospital Mortality Prediction](https://arxiv.org/abs/2208.10240)" is accepted by [AMIA 2022](https://amia.org/education-events/annual-symposium)! The paper is selected as the Student Paper Finalist!
- 2022-04: Paper "[A Study of the Attention Abnormality in Trojaned BERTs](https://aclanthology.org/2022.naacl-main.348/)" is accepted by [NAACL 2022](https://2022.naacl.org/)! 
+- 2022-06: [One paper](https://arxiv.org/abs/2208.10240) is nominated as the Best Student Paper by [AMIA Annual Symposium 2022](https://amia.org/education-events/annual-symposium)! We propose a multimodal transformer to fuse clinical notes and traditional EHR data for interpretable mortality prediction. AMIA is the world's premier meeting for research and practice of biomedical and health informatics.
+- 2022-04: Paper "[A Study of the Attention Abnormality in Trojaned BERTs](https://aclanthology.org/2022.naacl-main.348/)" is accepted by [NAACL 2022](https://2022.naacl.org/)! 
 - 2020-09: Start my Computer Science Ph.D. at Stony Brook University!
 
 
@@ -80,6 +82,25 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 ### Conference/Workshop/Journal 
 
 
+<!-- NAACL2024 -->
+<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
+	<img title="naacl2024" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/naacl2024_tabdet.jpg">
+		<div>
+			<b>Task-Agnostic Detector for Insertion-Based Backdoor Attacks</b><br>
+			<u>Weimin Lyu</u>, Xiao Lin, Songzhu Zheng, Lu Pang, Haibin Ling, Susmit Jha, Chao Chen<br>
+			<em>2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (<b>Findings of NAACL</b>), 2024</em> <br>
+			[<a href="https://2024.naacl.org/" target="_blank" rel="nofollow">NAACL</a>]<br>
+		</div>
+	</div>
+</div>
+
+
+
+---
+
+
+
 
 
 <!-- Findings of EMNLP'23 -->
@@ -90,7 +111,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 			<b>Attention-Enhancing Backdoor Attacks Against BERT-based Models</b><br>
 			<u>Weimin Lyu</u>, Songzhu Zheng, Lu Pang, Haibin Ling, Chao Chen<br>
 			<em>The 2023 Conference on Empirical Methods in Natural Language Processing (<b>Findings of EMNLP</b>), 2023</em> (A short version is accepted as <b style="color:red;">Oral</b> at ICLR 2023 Workshop on BANDS)<br>
-			[<a href="https://openreview.net/pdf?id=L7IW2foTq4" target="_blank" rel="nofollow">OpenReview</a>][<a href="https://github.com/weimin17/" target="_blank" rel="nofollow">Code</a>]<br>
+			[<a href="https://aclanthology.org/2023.findings-emnlp.716.pdf" target="_blank" rel="nofollow">EMNLP</a>][<a href="https://github.com/weimin17/" target="_blank" rel="nofollow">Code</a>]<br>
 
 		</div>
 	</div>
@@ -125,7 +146,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 			<b>An Integrated LSTM-HeteroRGNN Model for Interpretable Opioid Overdose Risk Prediction</b><br>
 			Xinyu Dong, Rachel Wong, <u>Weimin Lyu</u>, Kayley Abell-Hart, Janos G Hajagos, Richard N Rosenthal, Chao Chen, Fusheng Wang<br>
 			<em>Artificial Intelligence in Medicine (<b>AIIM</b>), 2022</em><br>
-			[<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9630306/" target="_blank" rel="nofollow">Paper</a>]<br>
+			[<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9630306/" target="_blank" rel="nofollow">AIIM</a>]<br>
 		</div>
 	</div>
 </div>
@@ -140,7 +161,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>A Multimodal Transformer: Fusing Clinical Notes With Structured EHR Data for Interpretable In-Hospital Mortality Prediction</b><br>
 			<u>Weimin Lyu</u>, Xinyu Dong, Rachel Wong, Songzhu Zheng , Kayley Abell-Hart, Fusheng Wang, Chao Chen<br>
-			<em>American Medical Informatics Association Annual Symposium (<b>AMIA</b>), 2022</em> (<b style="color:red;">Student Paper Finalist</b>-Equal to Best Student Paper Nomination)<br>
+			<em>American Medical Informatics Association Annual Symposium (<b>AMIA Annual Symposium</b>), 2022</em> (<b style="color:red;">Student Paper Finalist</b>-Equal to Best Student Paper Nomination)<br>
 			[<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10148371/" target="_blank" rel="nofollow">AMIA</a>][<a href="https://github.com/weimin17/Multimodal_Transformer" target="_blank" rel="nofollow">Code</a>]<br>
 		</div>
 	</div>
@@ -157,7 +178,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>A Study of the Attention Abnormality in Trojaned BERTs</b><br>
 			<u>Weimin Lyu</u>, Songzhu Zheng, Tengfei Ma, Chao Chen<br>
-			<em>The 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (<b>NAACL</b>), 2022</em> (<b style="color:red;">Oral</b>)<br>
+			<em>The 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (<b>NAACL</b>), 2022</em> <br>
 			[<a href="https://aclanthology.org/2022.naacl-main.348/" target="_blank" rel="nofollow">NAACL</a>][<a href="https://github.com/weimin17/attention_abnormality_in_trojaned_berts" target="_blank" rel="nofollow">Code</a>]<br>
 		</div>
 	</div>
@@ -170,6 +191,8 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 
 <!-- ACL@Semeval2019 -->
+
+<!-- 
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
 	<img title="acl2019" style="float: left; margin-top: 30px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/acl@seml2019.jpg">
@@ -182,7 +205,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 	</div>
 </div>
 
-
+ -->
 
 <!-- ## Industry Experience
 
