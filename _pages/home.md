@@ -68,7 +68,7 @@ My research focuses on understanding the mechanisms of deep learning models and 
 			Apply Scientist Intern, Full Time<br>
 			<br>
 			- Focused on foundation model training, with a strong emphasis on numerical and text features.<br>
-            - Developed and implemented the entire pre-training and fine-tuning pipeline, supporting both small-scale and large-scale model training.<br>
+            - Developed the entire pre-training and fine-tuning pipeline, supporting both small-scale and large-scale model training.<br>
             - Developed strategies to address multi-task real-world Amazon's user case.<br>
             - Delivered a developed model for business review, aimed at production launch.<br>
 		</div>
@@ -163,7 +163,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>TrojVLM: Backdoor Attack Against Vision Language Models</b><br>
 			<u>Weimin Lyu</u>, Lu Pang, Tengfei Ma, Haibin Ling, Chao Chen<br>
-			<em>The 18th European Conference on Computer Vision (<b>ECCV 2024</b>)/em> <br>
+			<em>The 18th European Conference on Computer Vision (<b>ECCV 2024</b>)</em> <br>
 			[<a href="https://weimin17.github.io/" target="_blank" rel="nofollow">arXiv</a>]<br>
 		</div>
 	</div>
