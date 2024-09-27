@@ -13,10 +13,10 @@ classes: wide
 ## About Me
 
 
-Hi! I am Weimin Lyu, a 4th year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I also have the privilege of collaborating with esteemed professors: 
+Hi! I am Weimin Lyu, a final year Ph.D. student in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I also have the privilege of collaborating with esteemed professors: 
 <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow">Haibin Ling</a>, 
 <a href="https://www3.cs.stonybrook.edu/~fuswang/" target="_blank" rel="nofollow">Fusheng Wang</a>, and
-<a href="https://sites.google.com/site/matf0123/" target="_blank" rel="nofollow">Tengfei Ma</a>.
+<a href="https://sites.google.com/site/matf0123/" target="_blank" rel="nofollow">Tengfei Ma</a>. I am currently an Applied Scientist Intern at Amazon, focusing on foundation model pre-training and fine-tuning with a strong emphasis on numerical and text features.
 
 
 
@@ -24,15 +24,21 @@ Hi! I am Weimin Lyu, a 4th year Ph.D. candidate in Computer Science at <a href="
 
 ## Research Interests
 
-My research mainly focuses on <b>Trustworthy AI</b>, especially backdoor attacks/defenses. My goal is to <b>enhance the security of Deep Learning-based models throughout their entire life cycle</b>. The application areas include different tasks across Natural Language Processing and Computer Vision. Experience on explainability in Healthcare and clinical decision making with EHR. Recently I focus on <b>Vision-Language Understanding</b> and <b>Large Language Models</b>.
+My research mainly focuses on understanding the mechanism of transformer-based models, designing algorithm to train the models to have the desired performance. The application areas include different tasks across Natural Language Processing and Computer Vision, e.g., BERT-variations, ViTs, Vision-Language Models. Experience on explainability in Healthcare and clinical decision making with EHR. Also has industry experience on Large Language Foundation Model training.
+My research focuses on understanding the mechanisms of deep learning models and developing algorithms to intentionally train models for specific behaviors, such as backdoor attack and defense strategies. Application areas span across Natural Language Processing and Computer Vision, including BERT variants, Vision Transformers (ViTs), and Vision-Language Models. I also have industry experience in training Large Language Foundation Models, and experience in explainability for clinical decision-making with Electronic Health Records (EHR).
+
+
+
+<!-- My research mainly focuses on <b>Trustworthy AI</b>, especially backdoor attacks/defenses. My goal is to <b>enhance the security of Deep Learning-based models throughout their entire life cycle</b>. The application areas include different tasks across Natural Language Processing and Computer Vision. Experience on explainability in Healthcare and clinical decision making with EHR. Recently I focus on <b>Vision-Language Understanding</b> and <b>Large Language Models</b>. -->
 
 
 
 
 ## News
 
-
-- 2024-03: One paper is accepted by [NAACL 2024](https://2024.naacl.org/)! We introduce a task-agnostic metod for textural backdoor detection. 
+- 2024-07: TrojVLM is accepted by [ECCV 2024](https://eccv2024.ecva.net/)! We investigate the vulnerabilities in the generative capabilities of Vision-Language Models, with a focus on image captioning and visual question answering (VQA) tasks.
+- 2024-06: BadCLM is accepted by [AMIA Annual Symposium 2024](https://amia.org/education-events/annual-symposium)! We investigate the clinical language model's vulnerabilities. 
+- 2024-03: One paper is accepted by [NAACL 2024](https://2024.naacl.org/)! We introduce a task-agnostic method for detecting textual backdoors, targeting a range of language models and traditional NLP tasks. 
 - 2023-10: [TAL](https://aclanthology.org/2023.findings-emnlp.716.pdf) is accepted by [EMNLP 2023](https://2023.emnlp.org/)!
 - 2023-03: Two papers are accepted by [ICLR 2023 Workshop on BANDS](https://iclr23-bands.github.io/)!
 - 2022-10: Paper "[An Integrated LSTM-HeteroRGNN Model for Interpretable Opioid Overdose Risk Prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9630306/)" is accepted by [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)! 
@@ -88,6 +94,49 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 ### Conference/Workshop/Journal 
 
 
+
+
+
+<!-- ECCV2024 -->
+<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
+	<img title="eccv2024" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/eccv2024.jpg">
+		<div>
+			<b>TrojVLM: Backdoor Attack \\Against Vision Language Models</b><br>
+			<u>Weimin Lyu</u>, Lu Pang, Tengfei Ma, Haibin Ling, Chao Chen<br>
+			<em>2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (<b>Findings of NAACL</b>), 2024</em> <br>
+			[<a href="https://weimin17.github.io/" target="_blank" rel="nofollow">arXiv</a>]<br>
+		</div>
+	</div>
+</div>
+
+
+
+---
+
+
+
+<!-- AMIA2024 -->
+<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
+	<img title="amia2024" style="float: left; margin-top: 50px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/amia2024.jpg">
+		<div>
+			<b>BadCLM: Backdoor Attack in Clinical Language Models for Electronic Health Records</b><br>
+			<u>Weimin Lyu</u>, Zexin Bi, Fusheng Wang, Chao Chen<br>
+			<em>American Medical Informatics Association Annual Symposium (<b>AMIA Annual Symposium 2024</b>)</em><br>
+			[<a href="https://arxiv.org/abs/2407.05213" target="_blank" rel="nofollow">arXiv</a>]<br>
+		</div>
+	</div>
+</div>
+
+
+---
+
+
+
+
+
+
 <!-- NAACL2024 -->
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
@@ -95,8 +144,8 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>Task-Agnostic Detector for Insertion-Based Backdoor Attacks</b><br>
 			<u>Weimin Lyu</u>, Xiao Lin, Songzhu Zheng, Lu Pang, Haibin Ling, Susmit Jha, Chao Chen<br>
-			<em>2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (<b>Findings of NAACL</b>), 2024</em> <br>
-			[<a href="https://2024.naacl.org/" target="_blank" rel="nofollow">NAACL</a>]<br>
+			<em>The Findings of 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (<b>NAACL 2024</b>)</em> <br>
+			[<a href="https://aclanthology.org/2024.findings-naacl.179/" target="_blank" rel="nofollow">NAACL</a>]<br>
 		</div>
 	</div>
 </div>
@@ -116,7 +165,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>Attention-Enhancing Backdoor Attacks Against BERT-based Models</b><br>
 			<u>Weimin Lyu</u>, Songzhu Zheng, Lu Pang, Haibin Ling, Chao Chen<br>
-			<em>The 2023 Conference on Empirical Methods in Natural Language Processing (<b>Findings of EMNLP</b>), 2023</em> (A short version is accepted as <b style="color:red;">Oral</b> at ICLR 2023 Workshop on BANDS)<br>
+			<em>The Findings of 2023 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2023</b>)</em> (A short version is accepted as <b style="color:red;">Oral</b> at ICLR 2023 Workshop on BANDS)<br>
 			[<a href="https://aclanthology.org/2023.findings-emnlp.716.pdf" target="_blank" rel="nofollow">EMNLP</a>][<a href="https://github.com/weimin17/" target="_blank" rel="nofollow">Code</a>]<br>
 
 		</div>
@@ -151,7 +200,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>An Integrated LSTM-HeteroRGNN Model for Interpretable Opioid Overdose Risk Prediction</b><br>
 			Xinyu Dong, Rachel Wong, <u>Weimin Lyu</u>, Kayley Abell-Hart, Janos G Hajagos, Richard N Rosenthal, Chao Chen, Fusheng Wang<br>
-			<em>Artificial Intelligence in Medicine (<b>AIIM</b>), 2022</em><br>
+			<em>Artificial Intelligence in Medicine (<b>AIIM 2022</b>)</em><br>
 			[<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9630306/" target="_blank" rel="nofollow">AIIM</a>]<br>
 		</div>
 	</div>
@@ -167,7 +216,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>A Multimodal Transformer: Fusing Clinical Notes With Structured EHR Data for Interpretable In-Hospital Mortality Prediction</b><br>
 			<u>Weimin Lyu</u>, Xinyu Dong, Rachel Wong, Songzhu Zheng , Kayley Abell-Hart, Fusheng Wang, Chao Chen<br>
-			<em>American Medical Informatics Association Annual Symposium (<b>AMIA Annual Symposium</b>), 2022</em> (<b style="color:red;">Student Paper Finalist</b>-Equal to Best Student Paper Nomination)<br>
+			<em>American Medical Informatics Association Annual Symposium (<b>AMIA Annual Symposium 2022</b>)</em> (<b style="color:red;">Student Paper Finalist</b>-Equal to Best Student Paper Nomination)<br>
 			[<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10148371/" target="_blank" rel="nofollow">AMIA</a>][<a href="https://github.com/weimin17/Multimodal_Transformer" target="_blank" rel="nofollow">Code</a>]<br>
 		</div>
 	</div>
@@ -184,7 +233,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>A Study of the Attention Abnormality in Trojaned BERTs</b><br>
 			<u>Weimin Lyu</u>, Songzhu Zheng, Tengfei Ma, Chao Chen<br>
-			<em>The 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (<b>NAACL</b>), 2022</em> <br>
+			<em>The 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (<b>NAACL 2022</b>)</em> <br>
 			[<a href="https://aclanthology.org/2022.naacl-main.348/" target="_blank" rel="nofollow">NAACL</a>][<a href="https://github.com/weimin17/attention_abnormality_in_trojaned_berts" target="_blank" rel="nofollow">Code</a>]<br>
 		</div>
 	</div>
@@ -213,9 +262,25 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
  -->
 
-<!-- ## Industry Experience
+## Industry Experience
 
 
+<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
+	<img title="amazon" style="float: left; padding-right: 1.5em; padding-down: 1.5em; padding-up: 1.5em; width: 150px; max-height: 300px;" src="/images/industry/amazon.jpeg">
+		<div>
+			Amazon, Seattle, USA (May 2024 - Dec 2024)<br>
+			Apply Scientist Intern, Full Time<br>
+			- Focused on foundation model training, with a strong emphasis on numerical and text features.<br>
+            - Developed and implemented the entire pre-training and fine-tuning pipeline, supporting both small-scale and large-scale model training.<br>
+            - Developed strategies to address multi-task real-world Amazon's user case.<br>
+            - Delivered a developed model for business review, aimed at production launch.<br>
+		</div>
+	</div>
+</div>
+
+
+<!-- 
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
 	<img title="yidutech" style="float: left; padding-right: 1.5em; padding-down: 1.5em; padding-up: 1.5em; width: 150px; max-height: 300px;" src="/images/industry/yidutech2.jpeg">
@@ -228,10 +293,10 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
   
 		</div>
 	</div>
-</div>
+</div> -->
 
 
-
+<!-- 
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
 	<img title="k2data" style="float: left; padding-right: 1.5em; width: 150px; max-height: 150px;" src="/images/industry/k2data.png">
@@ -245,5 +310,4 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		</div>
 	</div>
 </div>
-
  -->
