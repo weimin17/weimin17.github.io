@@ -65,7 +65,7 @@ My research focuses on understanding the mechanisms of deep learning models and 
 	<img title="amazon" style="float: left; padding-right: 1.5em; padding-down: 1.5em; padding-up: 1.5em; width: 150px; max-height: 300px;" src="/images/industry/amazon.jpeg">
 		<div>
 			Amazon, Seattle, USA (May 2024 - Dec 2024)<br>
-			Apply Scientist Intern, Full Time<br>
+			Applied Scientist Intern, Full Time<br>
 			<br>
 			- Focused on foundation model training, with a strong emphasis on numerical and text features.<br>
             - Developed the entire pre-training and fine-tuning pipeline, supporting both small-scale and large-scale model training.<br>
