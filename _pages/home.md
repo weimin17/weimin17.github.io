@@ -13,7 +13,7 @@ classes: wide
 ## About Me
 
 
-Hi! I am Weimin Lyu, a final year Ph.D. student in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I also have the privilege of collaborating with esteemed professors: 
+Hi! I am Weimin Lyu, a final year Ph.D. student in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I am also very fortunate to collaborate with esteemed professors: 
 <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow">Haibin Ling</a>, 
 <a href="https://www3.cs.stonybrook.edu/~fuswang/" target="_blank" rel="nofollow">Fusheng Wang</a>, and
 <a href="https://sites.google.com/site/matf0123/" target="_blank" rel="nofollow">Tengfei Ma</a>. I am currently an Applied Scientist Intern at Amazon, focusing on foundation model pre-training and fine-tuning with a strong emphasis on numerical and text features.
