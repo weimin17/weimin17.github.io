@@ -133,11 +133,13 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>Backdooring Vision-Language Models with Out-Of-Distribution Data</b><br>
 			<u>Weimin Lyu</u>, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen<br>
-			<em>Tech Report</em><br>
-			[<a href="https://arxiv.org/abs/2410.01264" target="_blank" rel="nofollow">arXiv</a>]<br>
+			<!-- <em>Tech Report</em><br> -->
+			<a href="https://arxiv.org/abs/2410.01264" target="_blank" rel="nofollow">Tech Report</a><br>
 		</div>
 	</div>
 </div>
+
+
 
 <!-- 
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
@@ -174,14 +176,13 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 			<b>PivotAlign: Improve Semi-Supervised Learning by Learning Intra-Class Heterogeneity and Aligning with Pivots</b><br>
 			Lingjie Yi, Tao Sun, Yikai Zhang, Songzhu Zheng, <u>Weimin Lyu</u>, Haibin Ling, Chao Chen<br>
 			<em>IEEE/CVF Winter Conference on Applications of Computer Vision (<b>WACV 2025</b>)</em> <br>
-<!-- 			[<a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08278.pdf" target="_blank" rel="ECCV">arXiv</a>]<br> -->
 		</div>
 	</div>
 </div>
 
 
 
-
+---
 
 
 
