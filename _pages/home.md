@@ -164,7 +164,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 
 
----
+
 
 
 
@@ -172,7 +172,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 <!-- WACV2025 -->
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="wacv2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/wacv2025.png">
+	<img title="wacv2025" style="float: left; margin-top: 30px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/wacv2025.png">
 		<div>
 			<b>PivotAlign: Improve Semi-Supervised Learning by Learning Intra-Class Heterogeneity and Aligning with Pivots</b><br>
 			Lingjie Yi, Tao Sun, Yikai Zhang, Songzhu Zheng, <u>Weimin Lyu</u>, Haibin Ling, Chao Chen<br>
@@ -263,7 +263,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 	</div>
 </div>
 
-
+---
 
 
 <!-- ICLR 2023 Workshop on BANDS -->
