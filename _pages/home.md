@@ -164,6 +164,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 
 
+---
 
 
 
@@ -195,7 +196,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 			<b>TrojVLM: Backdoor Attack Against Vision Language Models</b><br>
 			<u>Weimin Lyu</u>, Lu Pang, Tengfei Ma, Haibin Ling, Chao Chen<br>
 			<em>The 18th European Conference on Computer Vision (<b>ECCV 2024</b>)</em> <br>
-			[<a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08278.pdf" target="_blank" rel="ECCV">arXiv</a>]<br>
+			[<a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08278.pdf" target="_blank" rel="ECCV">ECCV</a>]<br>
 		</div>
 	</div>
 </div>
