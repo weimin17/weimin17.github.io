@@ -16,7 +16,7 @@ classes: wide
 Hi! I am Weimin Lyu, a final year Ph.D. student in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I am also very fortunate to collaborate with esteemed professors: 
 <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow">Haibin Ling</a>, 
 <a href="https://www3.cs.stonybrook.edu/~fuswang/" target="_blank" rel="nofollow">Fusheng Wang</a>, and
-<a href="https://sites.google.com/site/matf0123/" target="_blank" rel="nofollow">Tengfei Ma</a>. I am currently an Applied Scientist Intern at Amazon, focusing on foundation model pre-training and fine-tuning with a strong emphasis on numerical and text features.
+<a href="https://sites.google.com/site/matf0123/" target="_blank" rel="nofollow">Tengfei Ma</a>. I am currently an Applied Scientist Intern at Amazon, focusing on foundation model (LLaMA, Mistral) continuously pre-training and fine-tuning with a strong emphasis on numerical and text features.
 
 
 
@@ -25,8 +25,13 @@ Hi! I am Weimin Lyu, a final year Ph.D. student in Computer Science at <a href="
 ## Research Interests
 
 
-My research focuses on understanding the mechanisms of deep learning models and developing algorithms to intentionally train models for specific behaviors, such as backdoor attack and defense strategies. Application areas span across Natural Language Processing and Computer Vision, including BERT variants, Vision Transformers (ViTs), and Vision-Language Models. I also have industry experience in training Large Language Foundation Models, and experience in explainability for clinical decision-making with Electronic Health Records (EHR).
 
+
+My research includes multiple directions addressing text-based problems (BERT variants, LLMs), image classification (CNNs, Vision Transformers, CLIP), as well as multimodal image-to-text generation using Vision-Language Models (BLIP-2, MiniGPT-4, LLaVA, InstructBLIP). I also have expertise in explainability for clinical language models using Electronic Health Records.
+
+
+<!-- My research focuses on understanding the mechanisms of deep learning models and developing algorithms to intentionally train models for specific behaviors, such as backdoor attack and defense strategies. Application areas span across Natural Language Processing and Computer Vision, including BERT variants, Vision Transformers (ViTs), and Vision-Language Models. I also have industry experience in training Large Language Foundation Models, and experience in explainability for clinical decision-making with Electronic Health Records (EHR).
+ -->
 
 
 <!-- My research mainly focuses on <b>Trustworthy AI</b>, especially backdoor attacks/defenses. My goal is to <b>enhance the security of Deep Learning-based models throughout their entire life cycle</b>. The application areas include different tasks across Natural Language Processing and Computer Vision. Experience on explainability in Healthcare and clinical decision making with EHR. Recently I focus on <b>Vision-Language Understanding</b> and <b>Large Language Models</b>. -->
@@ -37,7 +42,7 @@ My research focuses on understanding the mechanisms of deep learning models and 
 ## News
 
 - 2024-07: TrojVLM is accepted by [ECCV 2024](https://eccv2024.ecva.net/)! We investigate the vulnerabilities in the generative capabilities of Vision-Language Models, with a focus on image captioning and visual question answering (VQA) tasks.
-- 2024-06: BadCLM is accepted by [AMIA 2024](https://amia.org/education-events/annual-symposium)! We investigate the clinical language model's vulnerabilities. 
+- 2024-06: BadCLM is nominated as the Best Student Paper by [AMIA 2024](https://amia.org/education-events/annual-symposium)! We investigate the clinical language model's vulnerabilities. 
 - 2024-03: One paper is accepted by [NAACL 2024](https://2024.naacl.org/)! We introduce a task-agnostic method for detecting textual backdoors, targeting a range of language models and traditional NLP tasks. 
 - 2023-10: [TAL](https://aclanthology.org/2023.findings-emnlp.716.pdf) is accepted by [EMNLP 2023](https://2023.emnlp.org/)!
 - 2023-03: Two papers are accepted by [ICLR 2023 Workshop on BANDS](https://iclr23-bands.github.io/)!
@@ -120,19 +125,20 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 ### Preprint
 
 
-<!-- 
+
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto;">
-	<img title="TechReport1" style="float: left; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2022_1.png">
+	<img title="TechReport1" style="float: left; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2024_1.png">
 		<div>
-			<b>Attention-Enhancing Backdoor Attacks against Transformers</b><br>
-			<u>Weimin Lyu</u>, Songzhu Zheng, Haibin Ling, Chao Chen<br>
+			<b>Backdooring Vision-Language Models with Out-Of-Distribution Data</b><br>
+			<u>Weimin Lyu</u>, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen<br>
 			<em>Tech Report</em><br>
+			[<a href="https://arxiv.org/abs/2410.01264" target="_blank" rel="nofollow">arXiv</a>]<br>
 		</div>
 	</div>
 </div>
- -->
 
+<!-- 
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto;">
 	<img title="TechReport1" style="float: left; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2022_1.png">
@@ -143,7 +149,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 			[<a href="https://arxiv.org/abs/2208.04946" target="_blank" rel="nofollow">arXiv</a>]<br>
 		</div>
 	</div>
-</div>
+</div> -->
 
 
 
