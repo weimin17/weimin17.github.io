@@ -41,6 +41,7 @@ My research includes multiple directions addressing text-based problems (BERT va
 
 ## News
 
+
 - 2024-07: TrojVLM is accepted by [ECCV 2024](https://eccv2024.ecva.net/)! We investigate the vulnerabilities in the generative capabilities of Vision-Language Models, with a focus on image captioning and visual question answering (VQA) tasks.
 - 2024-06: BadCLM is nominated as the Best Student Paper by [AMIA 2024](https://amia.org/education-events/annual-symposium)! We investigate the clinical language model's vulnerabilities. 
 - 2024-03: One paper is accepted by [NAACL 2024](https://2024.naacl.org/)! We introduce a task-agnostic method for detecting textual backdoors, targeting a range of language models and traditional NLP tasks. 
@@ -128,7 +129,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto;">
-	<img title="TechReport1" style="float: left; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2024_1.png">
+	<img title="TechReport1" style="float: left; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2024_1.jpg">
 		<div>
 			<b>Backdooring Vision-Language Models with Out-Of-Distribution Data</b><br>
 			<u>Weimin Lyu</u>, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen<br>
@@ -162,6 +163,29 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 
 
+
+
+
+<!-- WACV2025 -->
+<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
+	<img title="wacv2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/wacv2025.png">
+		<div>
+			<b>PivotAlign: Improve Semi-Supervised Learning by Learning Intra-Class Heterogeneity and Aligning with Pivots</b><br>
+			Lingjie Yi, Tao Sun, Yikai Zhang, Songzhu Zheng, <u>Weimin Lyu</u>, Haibin Ling, Chao Chen<br>
+			<em>IEEE/CVF Winter Conference on Applications of Computer Vision (<b>WACV 2025</b>)</em> <br>
+<!-- 			[<a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08278.pdf" target="_blank" rel="ECCV">arXiv</a>]<br> -->
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
 <!-- ECCV2024 -->
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
@@ -170,7 +194,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 			<b>TrojVLM: Backdoor Attack Against Vision Language Models</b><br>
 			<u>Weimin Lyu</u>, Lu Pang, Tengfei Ma, Haibin Ling, Chao Chen<br>
 			<em>The 18th European Conference on Computer Vision (<b>ECCV 2024</b>)</em> <br>
-			[<a href="https://weimin17.github.io/" target="_blank" rel="nofollow">arXiv</a>]<br>
+			[<a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08278.pdf" target="_blank" rel="ECCV">arXiv</a>]<br>
 		</div>
 	</div>
 </div>
