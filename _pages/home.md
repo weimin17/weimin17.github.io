@@ -154,7 +154,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 <!-- ICLR2025 -->
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto;">
-	<img title="ICLR2025" style="float: left; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2024_1.jpg">
+	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2024_1.jpg">
 		<div>
 			<b>Backdooring Vision-Language Models with Out-Of-Distribution Data</b><br>
 			<u>Weimin Lyu</u>, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen<br>
