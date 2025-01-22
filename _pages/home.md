@@ -213,7 +213,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>BadCLM: Backdoor Attack in Clinical Language Models for Electronic Health Records</b><br>
 			<u>Weimin Lyu</u>, Zexin Bi, Fusheng Wang, Chao Chen<br>
-			<em>American Medical Informatics Association Annual Symposium (<b>AMIA 2024</b>)</em><br>
+			<em>American Medical Informatics Association Annual Symposium (<b>AMIA 2024</b>)</em> (<b style="color:red;">Best Student Paper Nomination</b>)<br>
 			[<a href="https://arxiv.org/abs/2407.05213" target="_blank" rel="nofollow">arXiv</a>]<br>
 		</div>
 	</div>
