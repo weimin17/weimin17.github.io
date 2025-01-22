@@ -41,7 +41,7 @@ My research includes multiple directions addressing text-based problems (BERT va
 
 ## News
 
-
+- 2025-01: One paper is accepted by [ICLR 2025](https://iclr.cc/)! 
 - 2024-07: TrojVLM is accepted by [ECCV 2024](https://eccv2024.ecva.net/)! We investigate the vulnerabilities in the generative capabilities of Vision-Language Models, with a focus on image captioning and visual question answering (VQA) tasks.
 - 2024-06: BadCLM is nominated as the Best Student Paper by [AMIA 2024](https://amia.org/education-events/annual-symposium)! We investigate the clinical language model's vulnerabilities. 
 - 2024-03: One paper is accepted by [NAACL 2024](https://2024.naacl.org/)! We introduce a task-agnostic method for detecting textual backdoors, targeting a range of language models and traditional NLP tasks. 
@@ -123,21 +123,8 @@ My research includes multiple directions addressing text-based problems (BERT va
 
 Full publications can be found in [Google Scholar](https://scholar.google.com/citations?user=IVed47cAAAAJ&hl=en).
 
-### Preprint
+<!-- ### Preprint -->
 
-
-
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto;">
-	<img title="TechReport1" style="float: left; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2024_1.jpg">
-		<div>
-			<b>Backdooring Vision-Language Models with Out-Of-Distribution Data</b><br>
-			<u>Weimin Lyu</u>, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen<br>
-			<!-- <em>Tech Report</em><br> -->
-			<a href="https://arxiv.org/abs/2410.01264" target="_blank" rel="nofollow">Tech Report</a><br>
-		</div>
-	</div>
-</div>
 
 
 
@@ -164,7 +151,19 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 
 
+<!-- ICLR2025 -->
+<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+	<div style="margin: 0px auto;">
+	<img title="ICLR2025" style="float: left; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2024_1.jpg">
+		<div>
+			<b>Backdooring Vision-Language Models with Out-Of-Distribution Data</b><br>
+			<u>Weimin Lyu</u>, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen<br>
+			<em>The Thirteenth International Conference on Learning Representations (<b>ICLR 2025</b>)</em><br>
+			<a href="https://arxiv.org/abs/2410.01264" target="_blank" rel="ICLR">ICLR 2025</a><br>
 
+		</div>
+	</div>
+</div>
 
 
 
