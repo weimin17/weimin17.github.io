@@ -174,7 +174,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>ImpScore: A Learnable Metric For Quantifying The Implicitness Level of Language</b><br>
 			Yuxin Wang, Xiaomeng Zhu*, <u>Weimin Lyu*</u>, Saeed Hassanpour, Soroush Vosoughi<br>
-			<em>The Thirteenth International Conference on Learning Representations (<b>ICLR 2025</b>)</em><br>
+			<em>The Thirteenth International Conference on Learning Representations (<b>ICLR 2025</b>)(<b style="color:red;">Spotlight</b>)</em><br>
 			<a href="https://arxiv.org/abs/2411.05172" target="_blank" rel="ICLR">[ICLR]</a><br>
 
 		</div>
