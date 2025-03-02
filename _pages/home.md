@@ -46,11 +46,11 @@ My research focuses on model safety across a range of applications, including te
 - 2024-07: My first-authored paper, TrojVLM, is accepted by [ECCV 2024](https://eccv2024.ecva.net/)! We investigate the vulnerabilities in the generative capabilities of Vision-Language Models, with a focus on image captioning and visual question answering (VQA) tasks.
 - 2024-07: One paper is accepted by WACV 2025!
 - 2024-06: My first-authored paper, BadCLM, is nominated as the Best Student Paper by [AMIA 2024](https://amia.org/education-events/annual-symposium)! We investigate the clinical language model's vulnerabilities. 
-- 2024-03: One firth-authored paper is accepted by [NAACL 2024](https://2024.naacl.org/)! We introduce a task-agnostic method for detecting textual backdoors, targeting a range of language models and traditional NLP tasks. 
-- 2023-10: [TAL](https://aclanthology.org/2023.findings-emnlp.716.pdf) is accepted by [EMNLP 2023](https://2023.emnlp.org/)!
+- 2024-03: One first-authored paper is accepted by [NAACL 2024](https://2024.naacl.org/)! We introduce a task-agnostic method for detecting textual backdoors, targeting a range of language models and traditional NLP tasks. 
+- 2023-10: My first-authored [TAL](https://aclanthology.org/2023.findings-emnlp.716.pdf) is accepted by [EMNLP 2023](https://2023.emnlp.org/)!
 - 2023-03: Two papers are accepted by [ICLR 2023 Workshop on BANDS](https://iclr23-bands.github.io/)!
 - 2022-10: Paper "[An Integrated LSTM-HeteroRGNN Model for Interpretable Opioid Overdose Risk Prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9630306/)" is accepted by [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)! 
-- 2022-06: [One first-authored paper](https://arxiv.org/abs/2208.10240) is nominated as the Best Student Paper by [AMIA 2022](https://amia.org/education-events/annual-symposium)! We propose a multimodal transformer to fuse clinical notes and traditional EHR data for interpretable mortality prediction. AMIA is the world's premier meeting for research and practice of biomedical and health informatics.
+- 2022-06: One first-authored [paper](https://arxiv.org/abs/2208.10240) is nominated as the Best Student Paper by [AMIA 2022](https://amia.org/education-events/annual-symposium)! We propose a multimodal transformer to fuse clinical notes and traditional EHR data for interpretable mortality prediction. AMIA is the world's premier meeting for research and practice of biomedical and health informatics.
 - 2022-04: One first-authored paper "[A Study of the Attention Abnormality in Trojaned BERTs](https://aclanthology.org/2022.naacl-main.348/)" is accepted by [NAACL 2022](https://2022.naacl.org/)! 
 - 2020-09: Start my Computer Science Ph.D. at Stony Brook University!
 
