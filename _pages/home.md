@@ -16,7 +16,8 @@ classes: wide
 Hi! I am Weimin Lyu, a final year Ph.D. student in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I am also very fortunate to collaborate with esteemed professors: 
 <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow">Haibin Ling</a>, 
 <a href="https://www3.cs.stonybrook.edu/~fuswang/" target="_blank" rel="nofollow">Fusheng Wang</a>, and
-<a href="https://sites.google.com/site/matf0123/" target="_blank" rel="nofollow">Tengfei Ma</a>. I am currently an Applied Scientist Intern at Amazon, focusing on foundation model (LLaMA, Mistral) continuously pre-training and fine-tuning with a strong emphasis on numerical and text features.
+<a href="https://sites.google.com/site/matf0123/" target="_blank" rel="nofollow">Tengfei Ma</a>. 
+<!-- I am currently an Applied Scientist Intern at Amazon, focusing on foundation model (LLaMA, Mistral) continuously pre-training and fine-tuning with a strong emphasis on numerical and text features. -->
 
 
 
@@ -27,7 +28,7 @@ Hi! I am Weimin Lyu, a final year Ph.D. student in Computer Science at <a href="
 
 
 
-My research includes multiple directions addressing text-based problems (BERT variants, LLMs), image classification (CNNs, Vision Transformers, CLIP), as well as multimodal image-to-text generation using Vision-Language Models (BLIP-2, MiniGPT-4, LLaVA, InstructBLIP). I also have expertise in explainability for clinical language models using Electronic Health Records.
+My research focuses on model safety across a range of applications, including text-based problems (BERT variants, LLMs), image classification (CNNs, Vision Transformers, CLIP), and multimodal image-to-text generation with Vision-Language Models (BLIP-2, MiniGPT-4, LLaVA, InstructBLIP). I also specialize in explainability for clinical language models using Electronic Health Records.
 
 
 <!-- My research focuses on understanding the mechanisms of deep learning models and developing algorithms to intentionally train models for specific behaviors, such as backdoor attack and defense strategies. Application areas span across Natural Language Processing and Computer Vision, including BERT variants, Vision Transformers (ViTs), and Vision-Language Models. I also have industry experience in training Large Language Foundation Models, and experience in explainability for clinical decision-making with Electronic Health Records (EHR).
@@ -41,15 +42,16 @@ My research includes multiple directions addressing text-based problems (BERT va
 
 ## News
 
-- 2025-01: Three papers are accepted by [ICLR 2025](https://iclr.cc/)! 
-- 2024-07: TrojVLM is accepted by [ECCV 2024](https://eccv2024.ecva.net/)! We investigate the vulnerabilities in the generative capabilities of Vision-Language Models, with a focus on image captioning and visual question answering (VQA) tasks.
-- 2024-06: BadCLM is nominated as the Best Student Paper by [AMIA 2024](https://amia.org/education-events/annual-symposium)! We investigate the clinical language model's vulnerabilities. 
-- 2024-03: One paper is accepted by [NAACL 2024](https://2024.naacl.org/)! We introduce a task-agnostic method for detecting textual backdoors, targeting a range of language models and traditional NLP tasks. 
+- 2025-01: Three papers are accepted by [ICLR 2025](https://iclr.cc/), including one first-authored paper: VLOOD! 
+- 2024-07: My first-authored paper, TrojVLM, is accepted by [ECCV 2024](https://eccv2024.ecva.net/)! We investigate the vulnerabilities in the generative capabilities of Vision-Language Models, with a focus on image captioning and visual question answering (VQA) tasks.
+- 2024-07: One paper is accepted by WACV 2025!
+- 2024-06: My first-authored paper, BadCLM, is nominated as the Best Student Paper by [AMIA 2024](https://amia.org/education-events/annual-symposium)! We investigate the clinical language model's vulnerabilities. 
+- 2024-03: One firth-authored paper is accepted by [NAACL 2024](https://2024.naacl.org/)! We introduce a task-agnostic method for detecting textual backdoors, targeting a range of language models and traditional NLP tasks. 
 - 2023-10: [TAL](https://aclanthology.org/2023.findings-emnlp.716.pdf) is accepted by [EMNLP 2023](https://2023.emnlp.org/)!
 - 2023-03: Two papers are accepted by [ICLR 2023 Workshop on BANDS](https://iclr23-bands.github.io/)!
 - 2022-10: Paper "[An Integrated LSTM-HeteroRGNN Model for Interpretable Opioid Overdose Risk Prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9630306/)" is accepted by [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)! 
-- 2022-06: [One paper](https://arxiv.org/abs/2208.10240) is nominated as the Best Student Paper by [AMIA 2022](https://amia.org/education-events/annual-symposium)! We propose a multimodal transformer to fuse clinical notes and traditional EHR data for interpretable mortality prediction. AMIA is the world's premier meeting for research and practice of biomedical and health informatics.
-- 2022-04: Paper "[A Study of the Attention Abnormality in Trojaned BERTs](https://aclanthology.org/2022.naacl-main.348/)" is accepted by [NAACL 2022](https://2022.naacl.org/)! 
+- 2022-06: [One first-authored paper](https://arxiv.org/abs/2208.10240) is nominated as the Best Student Paper by [AMIA 2022](https://amia.org/education-events/annual-symposium)! We propose a multimodal transformer to fuse clinical notes and traditional EHR data for interpretable mortality prediction. AMIA is the world's premier meeting for research and practice of biomedical and health informatics.
+- 2022-04: One first-authored paper "[A Study of the Attention Abnormality in Trojaned BERTs](https://aclanthology.org/2022.naacl-main.348/)" is accepted by [NAACL 2022](https://2022.naacl.org/)! 
 - 2020-09: Start my Computer Science Ph.D. at Stony Brook University!
 
 
@@ -70,13 +72,13 @@ My research includes multiple directions addressing text-based problems (BERT va
 	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
 	<img title="amazon" style="float: left; padding-right: 1.5em; padding-down: 1.5em; padding-up: 1.5em; width: 150px; max-height: 300px;" src="/images/industry/amazon.jpeg">
 		<div>
-			Amazon, Seattle, USA (May 2024 - Dec 2024)<br>
-			Applied Scientist Intern, Full Time<br>
+			Amazon, Seattle, USA (May 2024 - May 2025)<br>
+			Applied Scientist Intern<br>
 			<br>
 			- Focused on foundation model training, with a strong emphasis on numerical and text features.<br>
-            - Developed the entire pre-training and fine-tuning pipeline, supporting both small-scale and large-scale model training.<br>
+            - Developed the entire continuous pre-training and fine-tuning pipeline, supporting both small-scale and large-scale model training.<br>
             - Developed strategies to address multi-task real-world Amazon's user case.<br>
-            - Delivered a developed model for business review, aimed at production launch.<br>
+            - Production is scheduled to launch in Q2 2025, and I am responsible for developing the LLM classification algorithm and training model.<br>
 		</div>
 	</div>
 </div>
