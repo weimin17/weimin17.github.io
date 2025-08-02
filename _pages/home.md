@@ -180,7 +180,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 	<div style="margin: 0px auto;">
 	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 200px; max-height: 80px;" src="/images/pub/tech2025_1.jpg">
 		<div> -->
-<div style="margin-bottom: 0; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
+<div style="margin-bottom: 0em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
 	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; margin-right: 0em;">
 		<img src="/images/pub/tech2025_1.jpg" alt="ICLR2025" title="ICLR2025"
          style="max-width: 100%; max-height: 100%; object-fit: contain;" />
@@ -203,8 +203,8 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 	<img title="ACL2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 200px; max-height: 80px;" src="/images/pub/acl2025_1_CalD.png">
 		<div>
  -->
- <div style="margin-bottom: 1em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
-	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 0.8em;">
+ <div style="margin-bottom: 0em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
+	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 0em;">
 		<img src="/images/pub/acl2025_1_CalD.png" alt="ACL2025" title="ACL2025"
          style="max-width: 100%; max-height: 100%; object-fit: contain;" />
 	</div>
@@ -225,8 +225,8 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 	<div style="margin: 0px auto;">
 	<img title="ACL2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/acl2025_2_RPA.jpg">
 		<div> -->
-<div style="margin-bottom: 1em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
-	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 0.8em;">
+<div style="margin-bottom: 0em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
+	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 0em;">
 		<img src="/images/pub/acl2025_2_RPA.jpg" alt="ACL2025" title="ACL2025"
          style="max-width: 100%; max-height: 100%; object-fit: contain;" />
 	</div>
@@ -325,15 +325,21 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 
 <!-- ECCV2024 -->
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+<!-- <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
 	<img title="eccv2024" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/eccv2024.jpg">
-		<div>
+		<div> -->
+
+<div style="margin-bottom: 0em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
+	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 0em;">
+		<img src="/images/pub/eccv2024.jpgg" alt="ECCV2024" title="ECCV2024"
+         style="max-width: 100%; max-height: 100%; object-fit: contain;" />
+	</div>
+	<div style="flex: 1; min-width: 200px;">
 			<b>TrojVLM: Backdoor Attack Against Vision Language Models</b><br>
 			<u>Weimin Lyu</u>, Lu Pang, Tengfei Ma, Haibin Ling, Chao Chen<br>
 			<em>The 18th European Conference on Computer Vision (<b>ECCV 2024</b>)</em> <br>
 			[<a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08278.pdf" target="_blank" rel="ECCV">ECCV</a>]<br>
-		</div>
 	</div>
 </div>
 
