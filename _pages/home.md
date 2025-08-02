@@ -184,7 +184,6 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
   <div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 1.5em;">
     <img src="/images/pub/tech2025_1.jpg" alt="ICLR2025" title="ICLR2025"
          style="max-width: 100%; max-height: 100%; object-fit: contain;" />
-  </div>
   <div style="flex: 1; min-width: 200px;">
 			<b>Efficient Whole Slide Pathology VQA via Token Compression</b><br>
 			<u>Weimin Lyu</u>, Qingqiao Hu, Kehan Qi, Zhan Shi, Wentao Huang, Saumya Gupta, Chao Chen<br>
@@ -209,7 +208,6 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
   <div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 1.5em;">
     <img src="/images/pub/acl2025_1_CalD.png" alt="ACL2025" title="ACL2025"
          style="max-width: 100%; max-height: 100%; object-fit: contain;" />
-  </div>
   <div style="flex: 1; min-width: 200px;">
 			<b>Class Distillation with Mahalanobis Contrast: An Efficient Training Paradigm for Pragmatic Language Understanding Tasks</b><br>
 			Chenlu Wang, <u>Weimin Lyu</u>, Ritwik Banerjee<br>
