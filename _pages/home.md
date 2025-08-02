@@ -332,7 +332,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 <div style="margin-bottom: 0em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
 	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 0em;">
-		<img src="/images/pub/eccv2024.jpgg" alt="ECCV2024" title="ECCV2024"
+		<img src="/images/pub/eccv2024.jpg" alt="ECCV2024" title="ECCV2024"
          style="max-width: 100%; max-height: 100%; object-fit: contain;" />
 	</div>
 	<div style="flex: 1; min-width: 200px;">
