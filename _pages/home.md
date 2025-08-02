@@ -13,7 +13,7 @@ classes: wide
 ## About Me
 
 
-Hi! I am Weimin Lyu, a final year Ph.D. student in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I am also very fortunate to collaborate with esteemed professors: 
+Hi! I am Weimin Lyu, a final year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I have also been fortunate to collaborate with Professors
 <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow">Haibin Ling</a>, 
 <a href="https://www3.cs.stonybrook.edu/~fuswang/" target="_blank" rel="nofollow">Fusheng Wang</a>, and
 <a href="https://sites.google.com/site/matf0123/" target="_blank" rel="nofollow">Tengfei Ma</a>. 
@@ -25,11 +25,21 @@ Hi! I am Weimin Lyu, a final year Ph.D. student in Computer Science at <a href="
 
 ## Research Interests
 
+My research centers on building safe, efficient, and interpretable AI systems across language, vision, and multimodal domains:
+
+- AI Security & Trustworthiness: Backdoor attack and detection techniques for Language Models (e.g., BERT variations), Vision Models (e.g., ViT) and Vision-Language Models (e.g., CLIP, BLIP-2, LLaVA, etc).
+
+- Efficient Multimodal Learning: Token compression and resource-efficient model design for whole slide pathology image analysis using vision-language models like LLaVA.
+
+- Model Explainability in Clinical AI: Interpretable modeling of electronic health records using transformers and multimodal fusion.
+
+- LLM-based Personalization in Industry: Designing and deploying end-to-end infrastructure for online personalized navigation models, with a focus on lightweight LLMs, real-time signal compression, and customer understanding within Amazon shopping experience.
 
 
-
+<!-- 
+2025.08.01 before
 My research focuses on model safety across a range of applications, including text-based problems (BERT variants, LLMs), image classification (CNNs, Vision Transformers, CLIP), and multimodal image-to-text generation with Vision-Language Models (BLIP-2, MiniGPT-4, LLaVA, InstructBLIP). I also specialize in explainability for clinical language models using Electronic Health Records.
-
+ -->
 
 <!-- My research focuses on understanding the mechanisms of deep learning models and developing algorithms to intentionally train models for specific behaviors, such as backdoor attack and defense strategies. Application areas span across Natural Language Processing and Computer Vision, including BERT variants, Vision Transformers (ViTs), and Vision-Language Models. I also have industry experience in training Large Language Foundation Models, and experience in explainability for clinical decision-making with Electronic Health Records (EHR).
  -->
@@ -52,7 +62,7 @@ My research focuses on model safety across a range of applications, including te
 - 2022-10: Paper "[An Integrated LSTM-HeteroRGNN Model for Interpretable Opioid Overdose Risk Prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9630306/)" is accepted by [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)! 
 - 2022-06: One first-authored [paper](https://arxiv.org/abs/2208.10240) is nominated as the Best Student Paper by [AMIA 2022](https://amia.org/education-events/annual-symposium)! We propose a multimodal transformer to fuse clinical notes and traditional EHR data for interpretable mortality prediction. AMIA is the world's premier meeting for research and practice of biomedical and health informatics.
 - 2022-04: One first-authored paper "[A Study of the Attention Abnormality in Trojaned BERTs](https://aclanthology.org/2022.naacl-main.348/)" is accepted by [NAACL 2022](https://2022.naacl.org/)! 
-- 2020-09: Start my Computer Science Ph.D. at Stony Brook University!
+- 2020-09: Start my Computer Science Ph.D. journey at Stony Brook University!
 
 
 <!-- 
@@ -72,16 +82,41 @@ My research focuses on model safety across a range of applications, including te
 	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
 	<img title="amazon" style="float: left; padding-right: 1.5em; padding-down: 1.5em; padding-up: 1.5em; width: 150px; max-height: 300px;" src="/images/industry/amazon.jpeg">
 		<div>
-			Amazon, Seattle, USA (May 2024 - May 2025)<br>
-			Applied Scientist Intern<br>
+			Amazon, Seattle, USA (May 2025 - Present)<br>
+			Applied Scientist<br>
 			<br>
-			- Focused on foundation model training, with a strong emphasis on numerical and text features.<br>
-            - Developed the entire continuous pre-training and fine-tuning pipeline, supporting both small-scale and large-scale model training.<br>
-            - Developed strategies to address multi-task real-world Amazon's user case.<br>
-            - Production is scheduled to launch in Q2 2025, and I am responsible for developing the LLM classification algorithm and training model.<br>
+			- Currently working on LLM-based personalization solutions to enhance customer understanding and improve navigation relevance within Amazon's shopping experience.<br>
+			- Focus areas include building end-to-end modeling and training infrastructure for personalized navigation models in an online setting, and data-driven personalization signals compression.<br>
 		</div>
 	</div>
 </div>
+
+
+
+
+<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
+	<img title="amazon" style="float: left; padding-right: 1.5em; padding-down: 1.5em; padding-up: 1.5em; width: 150px; max-height: 300px;" src="/images/industry/amazon.jpeg">
+		<div>
+			Amazon, Seattle, USA (May 2024 - May 2025)<br>
+			Applied Scientist Intern<br>
+			<br>
+			- Led the development of the first-generation seller foundation model, a transformer decoder-based LLM designed for seller-related data, with a strong emphasis on tabular inputs and numerical formats.<br>
+            - Proposed and implemented an end-to-end two-stage training pipeline, including continuous pre-training (LM loss + attribution-level contrastive loss) and downstream fine-tuning (classification, multi-task, regression).<br>
+            - Built the full modeling and training infrastructure, supporting 355M and 7B model training.<br>
+            - Delivered production-ready model now running in shadow mode, pre-staged for full launch.<br>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
 
 
 <!-- 
