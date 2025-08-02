@@ -178,7 +178,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 <!-- ArXiv -->
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto;">
-	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2025_1.jpg">
+	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 200px; max-height: 80px;" src="/images/pub/tech2025_1.jpg">
 		<div>
 			<b>Efficient Whole Slide Pathology VQA via Token Compression</b><br>
 			<u>Weimin Lyu</u>, Qingqiao Hu, Kehan Qi, Zhan Shi, Wentao Huang, Saumya Gupta, Chao Chen<br>
@@ -190,12 +190,13 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 </div>
 
 
+---
 
 
 <!-- ACL2025-1-->
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto;">
-	<img title="ACL2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/acl2025_1_CalD.png">
+	<img title="ACL2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 200px; max-height: 80px;" src="/images/pub/acl2025_1_CalD.png">
 		<div>
 			<b>Class Distillation with Mahalanobis Contrast: An Efficient Training Paradigm for Pragmatic Language Understanding Tasks</b><br>
 			Chenlu Wang, <u>Weimin Lyu</u>, Ritwik Banerjee<br>
@@ -207,11 +208,13 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 </div>
 
 
+---
+
 
 <!-- ACL2025-2-->
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto;">
-	<img title="ACL2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/acl2025_2_RPA.jpg">
+	<img title="ACL2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 150px; max-height: 80px;" src="/images/pub/acl2025_2_RPA.jpg">
 		<div>
 			<b>Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents</b><br>
 			Chaoran Chen, Bingsheng Yao, Ruishi Zou, Wenyue Hua,<u>Weimin Lyu</u>, Toby Jia-Jun Li, Dakuo Wang<br>
@@ -225,6 +228,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 
 
+---
 
 
 
@@ -243,6 +247,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 </div>
 
 
+---
 
 
 <!-- ICLR2025-2 -->
@@ -263,6 +268,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 
 
+---
 
 
 
@@ -282,12 +288,13 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 </div>
 
 
+---
 
 
 <!-- WACV2025 -->
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="wacv2025" style="float: left; margin-top: 25; padding-right: 1.5em; width: 300px; max-height: 80px;" src="/images/pub/wacv2025.png">
+	<img title="wacv2025" style="float: left; margin-top: 25; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/wacv2025.png">
 		<div>
 			<b>PivotAlign: Improve Semi-Supervised Learning by Learning Intra-Class Heterogeneity and Aligning with Pivots</b><br>
 			Lingjie Yi, Tao Sun, Yikai Zhang, Songzhu Zheng, <u>Weimin Lyu</u>, Haibin Ling, Chao Chen<br>
