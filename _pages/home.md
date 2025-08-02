@@ -30,7 +30,7 @@ My research centers on building safe, efficient, and interpretable AI systems ac
 - <b>AI Security & Trustworthiness</b>: Backdoor attack and detection techniques for Language Models (e.g., BERT variations), Vision Models (e.g., ViT) and Vision-Language Models (e.g., CLIP, BLIP-2, LLaVA, etc).
 - <b>Efficient Multimodal Learning</b>: Token compression and resource-efficient model design for whole slide pathology image analysis using vision-language models like LLaVA.
 - <b>Model Explainability in Clinical AI</b>: Interpretable modeling of electronic health records using transformers and multimodal fusion.
-- <b>LLM-based Personalization in Industry</b>: Designing and deploying end-to-end infrastructure for online personalized navigation models, with a focus on lightweight LLMs, real-time signal compression, and customer understanding within Amazon shopping experience.
+- <b>LLM-based Personalization</b>: Designing and deploying end-to-end infrastructure for online personalized navigation models, with a focus on LLMs training, real-time signal compression, and customer understanding within Amazon shopping experience.
 
 
 <!-- 
@@ -48,7 +48,7 @@ My research focuses on model safety across a range of applications, including te
 
 
 ## News
-- 2025-05: Two papers are accepted by ACL 2025! 
+- 2025-05: 2025-05: Two papers accepted to ACL 2025! Congrats the leading authors Chenlu Wang and Chaoran Chen, and all the collaborators! [CalD](https://aclanthology.org/2025.acl-long.1424/), lead by Chenlu and Prof. Ritwik Banerjee, proposes an efficient framework for detecting deviant or nuanced language using smaller models. [RPA Evaluation](https://aclanthology.org/2025.findings-acl.938/), lead by Chaoran, Bingsheng and Prof. Dakuo Wang, presents a comprehensive guideline for evaluating LLM-based role-playing agents.
 - 2025-01: Three papers are accepted by [ICLR 2025](https://iclr.cc/), including one first-authored paper: VLOOD! 
 - 2024-07: My first-authored paper, TrojVLM, is accepted by [ECCV 2024](https://eccv2024.ecva.net/)! We investigate the vulnerabilities in the generative capabilities of Vision-Language Models, with a focus on image captioning and visual question answering (VQA) tasks.
 - 2024-07: One paper is accepted by WACV 2025!
@@ -173,13 +173,17 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 
 ### Conference/Workshop/Journal 
-
+<!-- keep its original aspect ratio while fitting into a consistent bounding box size -->
 
 <!-- ArXiv -->
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+<!-- <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto;">
 	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 200px; max-height: 80px;" src="/images/pub/tech2025_1.jpg">
-		<div>
+		<div> -->
+<div style="margin-bottom: 1em; display: flex; align-items: center; border: 0px solid #ddd; background-color: #fff;">
+  <div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; margin-right: 1.5em;">
+    <img title="ICLR2025" src="/images/pub/tech2025_1.jpg" style="max-width: 60%; max-height: 80%; object-fit: contain;" />
+  </div>
 			<b>Efficient Whole Slide Pathology VQA via Token Compression</b><br>
 			<u>Weimin Lyu</u>, Qingqiao Hu, Kehan Qi, Zhan Shi, Wentao Huang, Saumya Gupta, Chao Chen<br>
 			<em>In Submission</em><br>
@@ -194,10 +198,15 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 
 <!-- ACL2025-1-->
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+<!-- <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto;">
 	<img title="ACL2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 200px; max-height: 80px;" src="/images/pub/acl2025_1_CalD.png">
 		<div>
+ -->
+<div style="margin-bottom: 1em; display: flex; align-items: center; border: 0px solid #ddd; background-color: #fff;">
+  <div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; margin-right: 1.5em;">
+    <img title="ACL2025" src="/images/pub/acl2025_1_CalD.png" style="max-width: 60%; max-height: 100%; object-fit: contain;" />
+  </div>
 			<b>Class Distillation with Mahalanobis Contrast: An Efficient Training Paradigm for Pragmatic Language Understanding Tasks</b><br>
 			Chenlu Wang, <u>Weimin Lyu</u>, Ritwik Banerjee<br>
 			<em>Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (<b>ACL 2025</b>)</em><br>
