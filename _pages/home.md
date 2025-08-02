@@ -48,7 +48,7 @@ My research focuses on model safety across a range of applications, including te
 
 
 ## News
-
+- 2025-05: Two papers are accepted by ACL 2025! 
 - 2025-01: Three papers are accepted by [ICLR 2025](https://iclr.cc/), including one first-authored paper: VLOOD! 
 - 2024-07: My first-authored paper, TrojVLM, is accepted by [ECCV 2024](https://eccv2024.ecva.net/)! We investigate the vulnerabilities in the generative capabilities of Vision-Language Models, with a focus on image captioning and visual question answering (VQA) tasks.
 - 2024-07: One paper is accepted by WACV 2025!
