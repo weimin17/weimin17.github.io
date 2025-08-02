@@ -178,12 +178,12 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 <!-- ArXiv -->
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto;">
-	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2024_1.jpg">
+	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2025_1.jpg">
 		<div>
-			<b>Backdooring Vision-Language Models with Out-Of-Distribution Data</b><br>
-			<u>Weimin Lyu</u>, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen<br>
-			<em>The Thirteenth International Conference on Learning Representations (<b>ICLR 2025</b>)</em><br>
-			<a href="https://openreview.net/pdf?id=tZozeR3VV7" target="_blank" rel="ICLR">[ICLR]</a><br>
+			<b>Efficient Whole Slide Pathology VQA via Token Compression</b><br>
+			<u>Weimin Lyu</u>, Qingqiao Hu, Kehan Qi, Zhan Shi, Wentao Huang, Saumya Gupta, Chao Chen<br>
+			<em>In Submission</em><br>
+			<a href="https://arxiv.org/pdf/2507.14497" target="_blank" rel="ArXiv">[ArXiv]</a><br>
 
 		</div>
 	</div>
@@ -195,18 +195,32 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 <!-- ACL2025-1-->
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto;">
-	<img title="ACL2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2024_1.jpg">
+	<img title="ACL2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/acl2025_1_CalD.png">
 		<div>
-			<b>Backdooring Vision-Language Models with Out-Of-Distribution Data</b><br>
-			<u>Weimin Lyu</u>, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen<br>
-			<em>The Thirteenth International Conference on Learning Representations (<b>ICLR 2025</b>)</em><br>
-			<a href="https://openreview.net/pdf?id=tZozeR3VV7" target="_blank" rel="ICLR">[ICLR]</a><br>
+			<b>Class Distillation with Mahalanobis Contrast: An Efficient Training Paradigm for Pragmatic Language Understanding Tasks</b><br>
+			Chenlu Wang, <u>Weimin Lyu</u>, Ritwik Banerjee<br>
+			<em>Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (<b>ACL 2025</b>)</em><br>
+			<a href="https://aclanthology.org/2025.acl-long.1424/" target="_blank" rel="ACL">[ACL]</a><br>
 
 		</div>
 	</div>
 </div>
 
 
+
+<!-- ACL2025-2-->
+<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+	<div style="margin: 0px auto;">
+	<img title="ACL2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/acl2025_2_RPA.jpg">
+		<div>
+			<b>Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents</b><br>
+			Chaoran Chen, Bingsheng Yao, Ruishi Zou, Wenyue Hua,<u>Weimin Lyu</u>, Toby Jia-Jun Li, Dakuo Wang<br>
+			<em>Findings of the Association for Computational Linguistics: ACL 2025 (<b>ACL 2025</b>)</em><br>
+			<a href="https://aclanthology.org/2025.findings-acl.938/" target="_blank" rel="ACL">[ACL]</a><br>
+
+		</div>
+	</div>
+</div>
 
 
 
