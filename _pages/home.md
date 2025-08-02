@@ -183,7 +183,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 <div style="margin-bottom: 1em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
 	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; margin-right: 0.8em;">
 		<img src="/images/pub/tech2025_1.jpg" alt="ICLR2025" title="ICLR2025"
-         style="max-width: 100%; max-height: 100%;" />
+         style="max-width: 100%; max-height: 100%; object-fit: contain;" />
 	</div>
 	<div style="flex: 1; min-width: 200px;">
 			<b>Efficient Whole Slide Pathology VQA via Token Compression</b><br>
@@ -204,7 +204,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
  -->
  <div style="margin-bottom: 1em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
-	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 1em;">
+	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 0.8em;">
 		<img src="/images/pub/acl2025_1_CalD.png" alt="ACL2025" title="ACL2025"
          style="max-width: 100%; max-height: 100%; object-fit: contain;" />
 	</div>
@@ -221,16 +221,20 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 
 
 <!-- ACL2025-2-->
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+<!-- <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto;">
 	<img title="ACL2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/acl2025_2_RPA.jpg">
-		<div>
+		<div> -->
+<div style="margin-bottom: 1em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
+	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 0.8em;">
+		<img src="/images/pub/acl2025_2_RPA.jpg" alt="ACL2025" title="ACL2025"
+         style="max-width: 100%; max-height: 100%; object-fit: contain;" />
+	</div>
+	<div style="flex: 1; min-width: 200px;">
 			<b>Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents</b><br>
 			Chaoran Chen, Bingsheng Yao, Ruishi Zou, Wenyue Hua, <u>Weimin Lyu</u>, Toby Jia-Jun Li, Dakuo Wang<br>
 			<em>Findings of the Association for Computational Linguistics: ACL 2025 (<b>ACL 2025</b>)</em><br>
 			<a href="https://aclanthology.org/2025.findings-acl.938/" target="_blank" rel="ACL">[ACL]</a><br>
-
-		</div>
 	</div>
 </div>
 
