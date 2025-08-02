@@ -48,7 +48,7 @@ My research focuses on model safety across a range of applications, including te
 
 
 ## News
-- 2025-05: 2025-05: Two papers accepted to ACL 2025! Congrats to all collaborators! [CalD](https://aclanthology.org/2025.acl-long.1424/), led by Chenlu and Prof. Ritwik Banerjee, proposes an efficient framework for detecting deviant or nuanced language using smaller models. [RPA Evaluation](https://aclanthology.org/2025.findings-acl.938/), led by Chaoran, Bingsheng and Prof. Dakuo Wang, presents a comprehensive guideline for evaluating LLM-based role-playing agents.
+- 2025-05: Two papers accepted to ACL 2025! Congrats to all collaborators! [CalD](https://aclanthology.org/2025.acl-long.1424/), led by Chenlu and [Prof. Ritwik Banerjee](https://www.ritwikbanerjee.com/), proposes an efficient framework for detecting deviant or nuanced language using smaller models. [RPA Evaluation](https://aclanthology.org/2025.findings-acl.938/), led by Chaoran, Bingsheng and [Prof. Dakuo Wang](https://www.dakuowang.com/), presents a comprehensive guideline for evaluating LLM-based role-playing agents.
 - 2025-01: Three papers are accepted by [ICLR 2025](https://iclr.cc/), including one first-authored paper: VLOOD! 
 - 2024-07: My first-authored paper, TrojVLM, is accepted by [ECCV 2024](https://eccv2024.ecva.net/)! We investigate the vulnerabilities in the generative capabilities of Vision-Language Models, with a focus on image captioning and visual question answering (VQA) tasks.
 - 2024-07: One paper is accepted by WACV 2025!
@@ -181,7 +181,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 200px; max-height: 80px;" src="/images/pub/tech2025_1.jpg">
 		<div> -->
 <div style="margin-bottom: 1em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
-	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; margin-right: 1em;">
+	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; margin-right: 0.8em;">
 		<img src="/images/pub/tech2025_1.jpg" alt="ICLR2025" title="ICLR2025"
          style="max-width: 100%; max-height: 100%;" />
 	</div>
@@ -204,7 +204,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
  -->
  <div style="margin-bottom: 1em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
-	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 1.5em;">
+	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 1em;">
 		<img src="/images/pub/acl2025_1_CalD.png" alt="ACL2025" title="ACL2025"
          style="max-width: 100%; max-height: 100%; object-fit: contain;" />
 	</div>
