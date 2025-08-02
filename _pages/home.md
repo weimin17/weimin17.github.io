@@ -27,13 +27,10 @@ Hi! I am Weimin Lyu, a final year Ph.D. candidate in Computer Science at <a href
 
 My research centers on building safe, efficient, and interpretable AI systems across language, vision, and multimodal domains:
 
-- AI Security & Trustworthiness: Backdoor attack and detection techniques for Language Models (e.g., BERT variations), Vision Models (e.g., ViT) and Vision-Language Models (e.g., CLIP, BLIP-2, LLaVA, etc).
-
-- Efficient Multimodal Learning: Token compression and resource-efficient model design for whole slide pathology image analysis using vision-language models like LLaVA.
-
-- Model Explainability in Clinical AI: Interpretable modeling of electronic health records using transformers and multimodal fusion.
-
-- LLM-based Personalization in Industry: Designing and deploying end-to-end infrastructure for online personalized navigation models, with a focus on lightweight LLMs, real-time signal compression, and customer understanding within Amazon shopping experience.
+- <b>AI Security & Trustworthiness</b>: Backdoor attack and detection techniques for Language Models (e.g., BERT variations), Vision Models (e.g., ViT) and Vision-Language Models (e.g., CLIP, BLIP-2, LLaVA, etc).
+- <b>Efficient Multimodal Learning</b>: Token compression and resource-efficient model design for whole slide pathology image analysis using vision-language models like LLaVA.
+- <b>Model Explainability in Clinical AI</b>: Interpretable modeling of electronic health records using transformers and multimodal fusion.
+- <b>LLM-based Personalization in Industry</b>: Designing and deploying end-to-end infrastructure for online personalized navigation models, with a focus on lightweight LLMs, real-time signal compression, and customer understanding within Amazon shopping experience.
 
 
 <!-- 
@@ -111,14 +108,6 @@ My research focuses on model safety across a range of applications, including te
 
 
 
-
-
-
-
-
-
-
-
 <!-- 
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
@@ -186,16 +175,54 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 ### Conference/Workshop/Journal 
 
 
+<!-- ArXiv -->
+<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+	<div style="margin: 0px auto;">
+	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2024_1.jpg">
+		<div>
+			<b>Backdooring Vision-Language Models with Out-Of-Distribution Data</b><br>
+			<u>Weimin Lyu</u>, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen<br>
+			<em>The Thirteenth International Conference on Learning Representations (<b>ICLR 2025</b>)</em><br>
+			<a href="https://openreview.net/pdf?id=tZozeR3VV7" target="_blank" rel="ICLR">[ICLR]</a><br>
+
+		</div>
+	</div>
+</div>
+
+
+
+
+<!-- ACL2025-1-->
+<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
+	<div style="margin: 0px auto;">
+	<img title="ACL2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2024_1.jpg">
+		<div>
+			<b>Backdooring Vision-Language Models with Out-Of-Distribution Data</b><br>
+			<u>Weimin Lyu</u>, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen<br>
+			<em>The Thirteenth International Conference on Learning Representations (<b>ICLR 2025</b>)</em><br>
+			<a href="https://openreview.net/pdf?id=tZozeR3VV7" target="_blank" rel="ICLR">[ICLR]</a><br>
+
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
 
 <!-- ICLR2025-3 -->
 <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
 	<div style="margin: 0px auto;">
 	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/iclr_3_lingjie.png">
 		<div>
-			<b>Representation Learning for Long Tail Recognition via Feature Space Re-Construction</b><br>
+			<b>Geometry of Long-Tailed Representation Learning: Rebalancing Features for Skewed Distributions</b><br>
 			Lingjie Yi, Jiachen Yao, <u>Weimin Lyu</u>, Haibin Ling, Raphael Douady, Chao Chen<br>
 			<em>The Thirteenth International Conference on Learning Representations (<b>ICLR 2025</b>)</em><br>
-			<!-- <a href="https://arxiv.org/abs/2411.05172" target="_blank" rel="ICLR">[ICLR]</a><br> -->
+			<a href="https://openreview.net/pdf?id=GySIAKEwtZ" target="_blank" rel="ICLR">[ICLR]</a><br>
 
 		</div>
 	</div>
@@ -212,7 +239,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 			<b>ImpScore: A Learnable Metric For Quantifying The Implicitness Level of Language</b><br>
 			Yuxin Wang, Xiaomeng Zhu*, <u>Weimin Lyu*</u>, Saeed Hassanpour, Soroush Vosoughi<br>
 			<em>The Thirteenth International Conference on Learning Representations (<b>ICLR 2025</b>)(<b style="color:red;">Spotlight</b>)</em><br>
-			<a href="https://arxiv.org/abs/2411.05172" target="_blank" rel="ICLR">[ICLR]</a><br>
+			<a href="https://openreview.net/pdf?id=gYWqxXE5RJ" target="_blank" rel="ICLR">[ICLR]</a><br>
 
 		</div>
 	</div>
@@ -234,7 +261,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 			<b>Backdooring Vision-Language Models with Out-Of-Distribution Data</b><br>
 			<u>Weimin Lyu</u>, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen<br>
 			<em>The Thirteenth International Conference on Learning Representations (<b>ICLR 2025</b>)</em><br>
-			<a href="https://arxiv.org/abs/2410.01264" target="_blank" rel="ICLR">[ICLR]</a><br>
+			<a href="https://openreview.net/pdf?id=tZozeR3VV7" target="_blank" rel="ICLR">[ICLR]</a><br>
 
 		</div>
 	</div>
@@ -251,6 +278,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 			<b>PivotAlign: Improve Semi-Supervised Learning by Learning Intra-Class Heterogeneity and Aligning with Pivots</b><br>
 			Lingjie Yi, Tao Sun, Yikai Zhang, Songzhu Zheng, <u>Weimin Lyu</u>, Haibin Ling, Chao Chen<br>
 			<em>IEEE/CVF Winter Conference on Applications of Computer Vision (<b>WACV 2025</b>)</em> <br>
+			<a href="https://openaccess.thecvf.com/content/WACV2025/papers/Yi_PivotAlign_Improve_Semi-Supervised_Learning_by_Learning_Intra-Class_Heterogeneity_and_Aligning_WACV_2025_paper.pdf" target="_blank" rel="WACV">[WACV]</a><br>
 		</div>
 	</div>
 </div>
@@ -288,8 +316,8 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>BadCLM: Backdoor Attack in Clinical Language Models for Electronic Health Records</b><br>
 			<u>Weimin Lyu</u>, Zexin Bi, Fusheng Wang, Chao Chen<br>
-			<em>American Medical Informatics Association Annual Symposium (<b>AMIA 2024</b>)</em> (<b style="color:red;">Best Student Paper Nomination</b>)<br>
-			[<a href="https://arxiv.org/abs/2407.05213" target="_blank" rel="nofollow">arXiv</a>]<br>
+			<em>American Medical Informatics Association Annual Symposium (<b>AMIA 2024</b>)</em> (<b style="color:red;">Best Student Paper Finalist</b>)<br>
+			[<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12099347/" target="_blank" rel="nofollow">arXiv</a>]<br>
 		</div>
 	</div>
 </div>
@@ -381,7 +409,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>A Multimodal Transformer: Fusing Clinical Notes With Structured EHR Data for Interpretable In-Hospital Mortality Prediction</b><br>
 			<u>Weimin Lyu</u>, Xinyu Dong, Rachel Wong, Songzhu Zheng , Kayley Abell-Hart, Fusheng Wang, Chao Chen<br>
-			<em>American Medical Informatics Association Annual Symposium (<b>AMIA 2022</b>)</em> (<b style="color:red;">Student Paper Finalist</b>-Equal to Best Student Paper Nomination)<br>
+			<em>American Medical Informatics Association Annual Symposium (<b>AMIA 2022</b>)</em> (<b style="color:red;">Best Student Paper Finalist</b><br>
 			[<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10148371/" target="_blank" rel="nofollow">AMIA</a>][<a href="https://github.com/weimin17/Multimodal_Transformer" target="_blank" rel="nofollow">Code</a>]<br>
 		</div>
 	</div>
