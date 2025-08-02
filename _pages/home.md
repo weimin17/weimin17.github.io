@@ -183,7 +183,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 <div style="margin-bottom: 1em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
 	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 1em;">
 		<img src="/images/pub/tech2025_1.jpg" alt="ICLR2025" title="ICLR2025"
-         style="max-width: 100%; max-height: 100%; object-fit: contain;" />
+         style="max-width: 100%; max-height: 100%;" />
 	</div>
 	<div style="flex: 1; min-width: 200px;">
 			<b>Efficient Whole Slide Pathology VQA via Token Compression</b><br>
