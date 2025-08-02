@@ -180,8 +180,8 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 	<div style="margin: 0px auto;">
 	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 200px; max-height: 80px;" src="/images/pub/tech2025_1.jpg">
 		<div> -->
-<div style="margin-bottom: 1em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
-	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; margin-right: 0.8em;">
+<div style="margin-bottom: 0; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
+	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; margin-right: 0em;">
 		<img src="/images/pub/tech2025_1.jpg" alt="ICLR2025" title="ICLR2025"
          style="max-width: 100%; max-height: 100%; object-fit: contain;" />
 	</div>
