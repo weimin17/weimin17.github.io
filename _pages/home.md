@@ -254,7 +254,6 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 			Lingjie Yi, Jiachen Yao, <u>Weimin Lyu</u>, Haibin Ling, Raphael Douady, Chao Chen<br>
 			<em>The Thirteenth International Conference on Learning Representations (<b>ICLR 2025</b>)</em><br>
 			<a href="https://openreview.net/pdf?id=GySIAKEwtZ" target="_blank" rel="ICLR">[ICLR]</a><br>
-
 		</div>
 	</div>
 </div>
@@ -449,7 +448,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>A Multimodal Transformer: Fusing Clinical Notes With Structured EHR Data for Interpretable In-Hospital Mortality Prediction</b><br>
 			<u>Weimin Lyu</u>, Xinyu Dong, Rachel Wong, Songzhu Zheng , Kayley Abell-Hart, Fusheng Wang, Chao Chen<br>
-			<em>American Medical Informatics Association Annual Symposium (<b>AMIA 2022</b>)</em> (<b style="color:red;">Best Student Paper Finalist</b><br>
+			<em>American Medical Informatics Association Annual Symposium (<b>AMIA 2022</b>)</em> (<b style="color:red;">Best Student Paper Finalist</b>)<br>
 			[<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10148371/" target="_blank" rel="nofollow">AMIA</a>][<a href="https://github.com/weimin17/Multimodal_Transformer" target="_blank" rel="nofollow">Code</a>]<br>
 		</div>
 	</div>
@@ -466,7 +465,7 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 		<div>
 			<b>A Study of the Attention Abnormality in Trojaned BERTs</b><br>
 			<u>Weimin Lyu</u>, Songzhu Zheng, Tengfei Ma, Chao Chen<br>
-			<em>The 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (<b>NAACL 2022</b>)</em> <br>
+			<em>The 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (<b>NAACL 2022</b>)(<b style="color:red;">Oral</b>)</em> <br>
 			[<a href="https://aclanthology.org/2022.naacl-main.348/" target="_blank" rel="nofollow">NAACL</a>][<a href="https://github.com/weimin17/attention_abnormality_in_trojaned_berts" target="_blank" rel="nofollow">Code</a>]<br>
 		</div>
 	</div>
