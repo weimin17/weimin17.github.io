@@ -48,7 +48,7 @@ My research focuses on model safety across a range of applications, including te
 
 
 ## News
-- 2025-05: 2025-05: Two papers accepted to ACL 2025! Congrats the leading authors Chenlu Wang and Chaoran Chen, and all the collaborators! [CalD](https://aclanthology.org/2025.acl-long.1424/), lead by Chenlu and Prof. Ritwik Banerjee, proposes an efficient framework for detecting deviant or nuanced language using smaller models. [RPA Evaluation](https://aclanthology.org/2025.findings-acl.938/), lead by Chaoran, Bingsheng and Prof. Dakuo Wang, presents a comprehensive guideline for evaluating LLM-based role-playing agents.
+- 2025-05: 2025-05: Two papers accepted to ACL 2025! Congrats to all collaborators! [CalD](https://aclanthology.org/2025.acl-long.1424/), led by Chenlu and Prof. Ritwik Banerjee, proposes an efficient framework for detecting deviant or nuanced language using smaller models. [RPA Evaluation](https://aclanthology.org/2025.findings-acl.938/), led by Chaoran, Bingsheng and Prof. Dakuo Wang, presents a comprehensive guideline for evaluating LLM-based role-playing agents.
 - 2025-01: Three papers are accepted by [ICLR 2025](https://iclr.cc/), including one first-authored paper: VLOOD! 
 - 2024-07: My first-authored paper, TrojVLM, is accepted by [ECCV 2024](https://eccv2024.ecva.net/)! We investigate the vulnerabilities in the generative capabilities of Vision-Language Models, with a focus on image captioning and visual question answering (VQA) tasks.
 - 2024-07: One paper is accepted by WACV 2025!
@@ -180,10 +180,12 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 	<div style="margin: 0px auto;">
 	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 200px; max-height: 80px;" src="/images/pub/tech2025_1.jpg">
 		<div> -->
-<div style="margin-bottom: 1em; display: flex; align-items: center; border: 0px solid #ddd; background-color: #fff;">
-  <div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; margin-right: 1.5em;">
-    <img title="ICLR2025" src="/images/pub/tech2025_1.jpg" style="max-width: 60%; max-height: 80%; object-fit: contain;" />
+<div style="margin-bottom: 1.5em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
+  <div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 1.5em;">
+    <img src="/images/pub/tech2025_1.jpg" alt="ICLR2025" title="ICLR2025"
+         style="max-width: 100%; max-height: 100%; object-fit: contain;" />
   </div>
+  <div style="flex: 1; min-width: 200px;">
 			<b>Efficient Whole Slide Pathology VQA via Token Compression</b><br>
 			<u>Weimin Lyu</u>, Qingqiao Hu, Kehan Qi, Zhan Shi, Wentao Huang, Saumya Gupta, Chao Chen<br>
 			<em>In Submission</em><br>
@@ -203,10 +205,12 @@ Full publications can be found in [Google Scholar](https://scholar.google.com/ci
 	<img title="ACL2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 200px; max-height: 80px;" src="/images/pub/acl2025_1_CalD.png">
 		<div>
  -->
-<div style="margin-bottom: 1em; display: flex; align-items: center; border: 0px solid #ddd; background-color: #fff;">
-  <div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; margin-right: 1.5em;">
-    <img title="ACL2025" src="/images/pub/acl2025_1_CalD.png" style="max-width: 60%; max-height: 100%; object-fit: contain;" />
+  <div style="margin-bottom: 1.5em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
+  <div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 1.5em;">
+    <img src="/images/pub/acl2025_1_CalD.png" alt="ACL2025" title="ACL2025"
+         style="max-width: 100%; max-height: 100%; object-fit: contain;" />
   </div>
+  <div style="flex: 1; min-width: 200px;">
 			<b>Class Distillation with Mahalanobis Contrast: An Efficient Training Paradigm for Pragmatic Language Understanding Tasks</b><br>
 			Chenlu Wang, <u>Weimin Lyu</u>, Ritwik Banerjee<br>
 			<em>Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (<b>ACL 2025</b>)</em><br>
