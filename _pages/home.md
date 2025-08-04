@@ -17,7 +17,7 @@ Hi! I am Weimin Lyu, a final year Ph.D. candidate in Computer Science at <a href
 <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow">Haibin Ling</a>, 
 <a href="https://www3.cs.stonybrook.edu/~fuswang/" target="_blank" rel="nofollow">Fusheng Wang</a>, and
 <a href="https://sites.google.com/site/matf0123/" target="_blank" rel="nofollow">Tengfei Ma</a>. 
-<!-- I am currently an Applied Scientist Intern at Amazon, focusing on foundation model (LLaMA, Mistral) continuously pre-training and fine-tuning with a strong emphasis on numerical and text features. -->
+I am currently an Applied Scientist at Amazon Search, focusing on personalized LLM training.
 
 
 
@@ -48,6 +48,7 @@ My research focuses on model safety across a range of applications, including te
 
 
 ## News
+- 2025-06: I’m honored to receive the prestigious [Catacosinos Fellowship](https://www.cs.stonybrook.edu/about-us/News/three-doctoral-students-receive-catacosinos-fellowship-excellence-computer-science), awarded annually to outstanding PhD students at Stony Brook University - only three winners this year!
 - 2025-05: Two papers accepted to ACL 2025! Congrats to all collaborators! [CalD](https://aclanthology.org/2025.acl-long.1424/), led by Chenlu and [Prof. Ritwik Banerjee](https://www.ritwikbanerjee.com/), proposes an efficient framework for detecting deviant or nuanced language using smaller models. [RPA Evaluation](https://aclanthology.org/2025.findings-acl.938/), led by Chaoran, Bingsheng and [Prof. Dakuo Wang](https://www.dakuowang.com/), presents a comprehensive guideline for evaluating LLM-based role-playing agents.
 - 2025-01: Three papers are accepted by [ICLR 2025](https://iclr.cc/), including one first-authored paper: VLOOD! 
 - 2024-07: My first-authored paper, TrojVLM, is accepted by [ECCV 2024](https://eccv2024.ecva.net/)! We investigate the vulnerabilities in the generative capabilities of Vision-Language Models, with a focus on image captioning and visual question answering (VQA) tasks.
@@ -100,7 +101,7 @@ My research focuses on model safety across a range of applications, including te
 			<br>
 			- Led the development of the first-generation seller foundation model, a transformer decoder-based LLM designed for seller-related data, with a strong emphasis on tabular inputs and numerical formats.<br>
             - Proposed and implemented an end-to-end two-stage training pipeline, including continuous pre-training (LM loss + attribution-level contrastive loss) and downstream fine-tuning (classification, multi-task, regression).<br>
-            - Built the full modeling and training infrastructure, supporting 355M and 7B model training.<br>
+            - Built the full modeling and training infrastructure.<br>
             - Delivered production-ready model now running in shadow mode, pre-staged for full launch.<br>
 		</div>
 	</div>
