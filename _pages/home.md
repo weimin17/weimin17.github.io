@@ -13,11 +13,11 @@ classes: wide
 ## About Me
 
 
-Hi! I am Weimin Lyu, a final year Ph.D. candidate in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I have also been fortunate to collaborate with Professors
+Hi! I am currently an Applied Scientist at Amazon Search, where I focus on leveraging Large Language Models (LLMs) to enhance the shopping experience. I completed my PhD Study in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I have also been fortunate to collaborate with Professors
 <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow">Haibin Ling</a>, 
 <a href="https://www3.cs.stonybrook.edu/~fuswang/" target="_blank" rel="nofollow">Fusheng Wang</a>, and
 <a href="https://sites.google.com/site/matf0123/" target="_blank" rel="nofollow">Tengfei Ma</a>. 
-I am currently an Applied Scientist at Amazon Search, focusing on personalized LLM training.
+
 
 
 
@@ -48,6 +48,7 @@ My research focuses on model safety across a range of applications, including te
 
 
 ## News
+- 2025-08: Successfully defended my PhD thesis!
 - 2025-06: I’m honored to receive the prestigious [Catacosinos Fellowship](https://www.cs.stonybrook.edu/about-us/News/three-doctoral-students-receive-catacosinos-fellowship-excellence-computer-science), awarded annually to outstanding PhD students at Stony Brook University - only three winners this year!
 - 2025-05: Two papers accepted to ACL 2025! Congrats to all collaborators! [CalD](https://aclanthology.org/2025.acl-long.1424/), led by Chenlu and [Prof. Ritwik Banerjee](https://www.ritwikbanerjee.com/), proposes an efficient framework for detecting deviant or nuanced language using smaller models. [RPA Evaluation](https://aclanthology.org/2025.findings-acl.938/), led by Chaoran, Bingsheng and [Prof. Dakuo Wang](https://www.dakuowang.com/), presents a comprehensive guideline for evaluating LLM-based role-playing agents.
 - 2025-01: Three papers are accepted by [ICLR 2025](https://iclr.cc/), including one first-authored paper: VLOOD! 
