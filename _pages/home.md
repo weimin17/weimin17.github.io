@@ -96,7 +96,7 @@ My research focuses on model safety across a range of applications, including te
 			<br>
       		- Built the first-gen LLM Seller Foundation Model for seller-risk automation, integrating tabular signals, text, and attribution features.<br>
       		- Designed continuous pre-training (LM + attribution-level contrastive) and multi-task post-training to align representations and improve controllability.<br>
-      		- <b>Deployed to production with business impact: +22% automation coverage, $184K cost reduction (NA).<br>
+      		- Deployed to production with business impact: +22% automation coverage, $184K cost reduction (NA).<br>
 		</div>
 	</div>
 </div>
