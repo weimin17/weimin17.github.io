@@ -25,12 +25,12 @@ Hi! I am currently an Applied Scientist at Amazon Search, where I focus on lever
 
 ## Research Interests
 
-My research centers on building safe, efficient, and interpretable AI systems across language, vision, and multimodal domains:
+My research centers on how training objectives shape the internal behaviors of LLMs and VLMs, and how to make those behaviors controllable, efficient, and safe:
 
-- <b>AI Security & Trustworthiness</b>: Backdoor attack and detection techniques for Language Models (e.g., BERT variations), Vision Models (e.g., ViT) and Vision-Language Models (e.g., CLIP, BLIP-2, LLaVA, etc).
+- <b>Training Dynamics & Alignment</b>: Instruction/post-training for representation alignment and safe controllability in LLMs, ViTs, and VLMs; connecting training objectives with model reliability and behavior shaping.
 - <b>Efficient Multimodal Learning</b>: Token compression and resource-efficient model design for whole slide pathology image analysis using vision-language models like LLaVA.
 - <b>Model Explainability in Clinical AI</b>: Interpretable modeling of electronic health records using transformers and multimodal fusion.
-- <b>LLM-based Personalization</b>: Designing and deploying end-to-end infrastructure for online personalized navigation models, with a focus on LLMs training, real-time signal compression, and customer understanding within Amazon shopping experience.
+- <b>LLM-based Personalization</b>: Customer understanding for search/navigation, including personalization data generation, signal compression/memorization, post-training and evaluation.
 
 
 <!-- 
@@ -64,13 +64,7 @@ My research focuses on model safety across a range of applications, including te
 - 2020-09: Start my Computer Science Ph.D. journey at Stony Brook University!
 
 
-<!-- 
-- 2022-11: Attended NeruIPS 2022 ~~at New Orleans, LA~~ remotely.
-- 2022-11: Attended AMIA Symposium 2022 at Washington D.C., DC.
-- 2022-07: Attended NAACL 2022 at Seattle, WA.
-- 2022-06: Attended CVPR 2022 at New Orleans, LA.
 
- -->
 
 
 
@@ -84,12 +78,12 @@ My research focuses on model safety across a range of applications, including te
 			Amazon, Seattle, USA (May 2025 - Present)<br>
 			Applied Scientist<br>
 			<br>
-			- Currently working on LLM-based personalization solutions to enhance customer understanding and improve navigation relevance within Amazon's shopping experience.<br>
-			- Focus areas include building end-to-end modeling and training infrastructure for personalized navigation models in an online setting, and data-driven personalization signals compression.<br>
+		    - Building personalization-oriented LLMs to improve navigation/search relevance across Amazon’s shopping ecosystem.<br>
+		    - Developing post-training (instruction tuning, RL) and personalized training-data generation pipelines leveraging behavioral/contextual signals.<br>
+		    - Designing LLM-as-Judge evaluation for automated quality assessment, covering 55% of Search traffic.<br>
 		</div>
 	</div>
 </div>
-
 
 
 
@@ -100,10 +94,9 @@ My research focuses on model safety across a range of applications, including te
 			Amazon, Seattle, USA (May 2024 - May 2025)<br>
 			Applied Scientist Intern<br>
 			<br>
-			- Led the development of the first-generation seller foundation model, a transformer decoder-based LLM designed for seller-related data, with a strong emphasis on tabular inputs and numerical formats.<br>
-            - Proposed and implemented an end-to-end two-stage training pipeline, including continuous pre-training (LM loss + attribution-level contrastive loss) and downstream fine-tuning (classification, multi-task, regression).<br>
-            - Built the full modeling and training infrastructure.<br>
-            - Delivered production-ready model now running in shadow mode, pre-staged for full launch.<br>
+      		- Built the first-gen LLM Seller Foundation Model for seller-risk automation, integrating tabular signals, text, and attribution features.<br>
+      		- Designed continuous pre-training (LM + attribution-level contrastive) and multi-task post-training to align representations and improve controllability.<br>
+      		- <b>Deployed to production with business impact: +22% automation coverage, $184K cost reduction (NA).<br>
 		</div>
 	</div>
 </div>
