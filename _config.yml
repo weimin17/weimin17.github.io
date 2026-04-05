@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Weimin Lyu"
   avatar           : "/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Candidate"
-  location         :  "Stony Brook, NY"
+  bio              : "Ph.D."
+  location         :  "Seattle, WA"
   # email            : "insistweiminlv@gmail.com"
   links:
     - label: "Email"
