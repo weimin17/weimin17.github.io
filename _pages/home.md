@@ -13,15 +13,30 @@ classes: wide
 ## About Me
 
 
+<!-- - 2026.05.31 -->
+
+I am an Applied Scientist at Amazon Search, working on search and navigation - designing LLM- and agent-based approaches that operate at scale. My current work focuses on personalized LLM systems, including post-training, personalization effectiveness, agentic evaluation, self-evolving agent, and latency-aware model serving. I bridge research and customer-facing production by developing LLM-powered systems that improve how customers express intent, query understanding and reformulation. 
+
+I received my Ph.D. in Computer Science from Stony Brook University, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I received my M.S Degree from Chinese Academy of Sciences, and my B.S degree from Shandong University. My doctoral research studied how training objectives shape model behavior and reliability, with a focus on backdoor attacks and defenses, attention behavior, concept manipulation, and vulnerability analysis for language and vision-language models. I also work on efficient multimodal training and explainability, including clinical AI and whole-slide pathology vision-language modeling.
+
+Across my Ph.D. and industry work, my research path centers on model behavior: how it fails, how it can be controlled, and how it should be evaluated. 
+<!-- My long-term goal is to build AI systems that are personalized, controllable, efficient, and measurable in real-world settings.
+ -->
+ <!-- Projects I led has achieved multi-million-dollar annualized business impact improvement in production. -->
+
+
+
+<!-- 
+- 2026.05.31
 Hi! I am currently an Applied Scientist at Amazon Search, where I focus on leveraging Large Language Models (LLMs) to enhance the shopping experience. I completed my PhD Study in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I have also been fortunate to collaborate with Professors
 <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow">Haibin Ling</a>, 
 <a href="https://www3.cs.stonybrook.edu/~fuswang/" target="_blank" rel="nofollow">Fusheng Wang</a>, and
 <a href="https://sites.google.com/site/matf0123/" target="_blank" rel="nofollow">Tengfei Ma</a>. 
 
+ -->
 
 
-
-
+<!-- 
 
 ## Research Interests
 
@@ -32,7 +47,7 @@ My research centers on how training objectives shape the internal behaviors of L
 - <b>Model Explainability in Clinical AI</b>: Interpretable modeling of electronic health records using transformers and multimodal fusion.
 - <b>LLM-based Personalization</b>: Customer understanding for search/navigation, including personalization data generation, signal compression/memorization, post-training and evaluation.
 
-
+ -->
 <!-- 
 2025.08.01 before
 My research focuses on model safety across a range of applications, including text-based problems (BERT variants, LLMs), image classification (CNNs, Vision Transformers, CLIP), and multimodal image-to-text generation with Vision-Language Models (BLIP-2, MiniGPT-4, LLaVA, InstructBLIP). I also specialize in explainability for clinical language models using Electronic Health Records.
@@ -48,22 +63,24 @@ My research focuses on model safety across a range of applications, including te
 
 
 ## News
+- 2026-05: My co-first-authored paper [Towards Representation Backdoor on CLIP via Concept Confusion](https://openreview.net/pdf?id=jQ91DETUIr) is accepted by TMLR! We propose backdoor attack method by concept manipulation on CLIP. 
+- 2026-05: [Long-Tailed Backdoor Attack Using Dynamic Data Augmentation Operations](https://openaccess.thecvf.com/content/CVPR2026W/SAIAD/html/Pang_Long-Tailed_Backdoor_Attack_Using_Dynamic_Data_Augmentation_Operations_CVPRW_2026_paper.html) is accepted by CVPR Workshop. We investigate the long-tail backdoor attack with data augmentation.
+- 2026-04: [OPERA](https://arxiv.org/abs/2506.05606) is accepted by ACL Main 2026! We propose a benchmark dataset for online shopping action simulation. 
+- 2026-02: CVPR 2026 accepted: [Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper.html), focusing on whole slides image efficiency and reasoning. 
 - 2025-08: Successfully defended my PhD thesis!
 - 2025-06: I’m honored to receive the prestigious [Catacosinos Fellowship](https://www.cs.stonybrook.edu/about-us/News/three-doctoral-students-receive-catacosinos-fellowship-excellence-computer-science), awarded annually to outstanding PhD students at Stony Brook University - only three winners this year!
-- 2025-05: Two papers accepted to ACL 2025! Congrats to all collaborators! [CalD](https://aclanthology.org/2025.acl-long.1424/), led by Chenlu and [Prof. Ritwik Banerjee](https://www.ritwikbanerjee.com/), proposes an efficient framework for detecting deviant or nuanced language using smaller models. [RPA Evaluation](https://aclanthology.org/2025.findings-acl.938/), led by Chaoran, Bingsheng and [Prof. Dakuo Wang](https://www.dakuowang.com/), presents a comprehensive guideline for evaluating LLM-based role-playing agents.
-- 2025-01: Three papers are accepted by [ICLR 2025](https://iclr.cc/), including one first-authored paper: VLOOD! 
-- 2024-07: My first-authored paper, TrojVLM, is accepted by [ECCV 2024](https://eccv2024.ecva.net/)! We investigate the vulnerabilities in the generative capabilities of Vision-Language Models, with a focus on image captioning and visual question answering (VQA) tasks.
+- 2025-05: Two papers accepted to ACL 2025! [CalD](https://aclanthology.org/2025.acl-long.1424/), led by Chenlu and [Prof. Ritwik Banerjee](https://www.ritwikbanerjee.com/), proposes an efficient framework for detecting deviant or nuanced language using smaller models. [RPA Evaluation](https://aclanthology.org/2025.findings-acl.938/), led by Chaoran, Bingsheng and [Prof. Dakuo Wang](https://www.dakuowang.com/), presents a comprehensive guideline for evaluating LLM-based role-playing agents.
+- 2025-01: Three papers are accepted by ICLR 2025, including one first-authored paper: [VLOOD](https://openreview.net/pdf?id=tZozeR3VV7)! VLOOD proposes a backdoor attack training method that works on Out-of-Distribution data.
+- 2024-07: My first-authored paper, [TrojVLM](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08278.pdf), is accepted by ECCV 2024! We investigate the vulnerabilities in the generative capabilities of Vision-Language Models, and propose a backdoor training algorithm, with a focus on image captioning and visual question answering (VQA) tasks.
 - 2024-07: One paper is accepted by WACV 2025!
 - 2024-06: My first-authored paper, BadCLM, is nominated as the Best Student Paper by [AMIA 2024](https://amia.org/education-events/annual-symposium)! We investigate the clinical language model's vulnerabilities. 
 - 2024-03: One first-authored paper is accepted by [NAACL 2024](https://2024.naacl.org/)! We introduce a task-agnostic method for detecting textual backdoors, targeting a range of language models and traditional NLP tasks. 
-- 2023-10: My first-authored [TAL](https://aclanthology.org/2023.findings-emnlp.716.pdf) is accepted by [EMNLP 2023](https://2023.emnlp.org/)!
+- 2023-10: My first-authored [TAL](https://aclanthology.org/2023.findings-emnlp.716.pdf) is accepted by [EMNLP 2023](https://2023.emnlp.org/)! We enhance backdoor attack by manipulating the attention mechanism. 
 - 2023-03: Two papers are accepted by [ICLR 2023 Workshop on BANDS](https://iclr23-bands.github.io/)!
 - 2022-10: Paper "[An Integrated LSTM-HeteroRGNN Model for Interpretable Opioid Overdose Risk Prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9630306/)" is accepted by [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)! 
-- 2022-06: One first-authored [paper](https://arxiv.org/abs/2208.10240) is nominated as the Best Student Paper by [AMIA 2022](https://amia.org/education-events/annual-symposium)! We propose a multimodal transformer to fuse clinical notes and traditional EHR data for interpretable mortality prediction. AMIA is the world's premier meeting for research and practice of biomedical and health informatics.
+- 2022-06: One first-authored [paper](https://arxiv.org/abs/2208.10240) is nominated as the Best Student Paper by [AMIA 2022](https://amia.org/education-events/annual-symposium)! We propose a multimodal transformer to fuse clinical notes and traditional EHR data for interpretable mortality prediction. 
 - 2022-04: One first-authored paper "[A Study of the Attention Abnormality in Trojaned BERTs](https://aclanthology.org/2022.naacl-main.348/)" is accepted by [NAACL 2022](https://2022.naacl.org/)! 
 - 2020-09: Start my Computer Science Ph.D. journey at Stony Brook University!
-
-
 
 
 
@@ -76,11 +93,11 @@ My research focuses on model safety across a range of applications, including te
 	<img title="amazon" style="float: left; padding-right: 1.5em; padding-down: 1.5em; padding-up: 1.5em; width: 150px; max-height: 300px;" src="/images/industry/amazon.jpeg">
 		<div>
 			Amazon, Seattle, USA (May 2025 - Present)<br>
-			Applied Scientist<br>
+			Applied Scientist @ Amazon Search<br>
 			<br>
-		    - Building personalization-oriented LLMs to improve navigation/search relevance across Amazon’s shopping ecosystem.<br>
-		    - Developing post-training (instruction tuning, RL) and personalized training-data generation pipelines leveraging behavioral/contextual signals.<br>
-		    - Designing LLM-as-Judge evaluation for automated quality assessment, covering 55% of Search traffic.<br>
+		    - Design LLM systems for personalized shopping search and navigation, focusing on post-training, personalization effectiveness, and agentic evaluation. <br>
+<!-- 		    - Developing post-training (instruction tuning, RL) and personalized training-data generation pipelines leveraging behavioral/contextual signals.<br>
+		    - Designing LLM-as-Judge evaluation for automated quality assessment, covering 55% of Search traffic.<br> -->
 		</div>
 	</div>
 </div>
@@ -94,9 +111,9 @@ My research focuses on model safety across a range of applications, including te
 			Amazon, Seattle, USA (May 2024 - May 2025)<br>
 			Applied Scientist Intern<br>
 			<br>
-      		- Built the first-gen LLM Seller Foundation Model for seller-risk automation, integrating tabular signals, text, and attribution features.<br>
-      		- Designed continuous pre-training (LM + attribution-level contrastive) and multi-task post-training to align representations and improve controllability.<br>
-      		- Deployed to production with business impact: +22% automation coverage, $184K cost reduction (NA).<br>
+      		- Built the first-gen LLM Seller Foundation Model for seller-risk automation, exploring how LLMs can jointly model textual, numerical signals. <br>
+      		- Designed continuous pre-training and multi-task post-training to align representations and improve downstream prediction performance.<br>
+      		- Delivered a production-oriented foundation-model prototype.<br>
 		</div>
 	</div>
 </div>
@@ -142,7 +159,7 @@ My research focuses on model safety across a range of applications, including te
 
 ## Selected Publications
 
-Full publications can be found in [Google Scholar](https://scholar.google.com/citations?user=IVed47cAAAAJ&hl=en).
+This publication list is outdated. Full and latest publications can be found in [Google Scholar](https://scholar.google.com/citations?user=IVed47cAAAAJ&hl=en).
 
 <!-- ### Preprint -->
 
