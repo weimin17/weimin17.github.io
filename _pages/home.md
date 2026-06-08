@@ -95,7 +95,7 @@ My research focuses on model safety across a range of applications, including te
 			Amazon, Seattle, USA (May 2025 - Present)<br>
 			Applied Scientist II @ Amazon Search<br>
 			<br>
-		    - Build LLM-powered search systems, focusing on post-training, personalization effectiveness, and agentic evaluation. <br>
+		    - Built LLM-powered search systems, focusing on post-training, personalization effectiveness, and agentic evaluation. <br>
 <!-- 		    - Developing post-training (instruction tuning, RL) and personalized training-data generation pipelines leveraging behavioral/contextual signals.<br>
 		    - Designing LLM-as-Judge evaluation for automated quality assessment, covering 55% of Search traffic.<br> -->
 		</div>
