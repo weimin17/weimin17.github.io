@@ -15,7 +15,7 @@ classes: wide
 
 <!-- - 2026.05.31 -->
 
-I am an Applied Scientist at Amazon Search, working on search and navigation - designing LLM- and agent-based approaches that operate at scale. My current work focuses on personalized LLM systems, including post-training, personalization effectiveness, agentic evaluation, self-evolving agent, and latency-aware model serving. I bridge research and customer-facing production by developing LLM-powered systems that improve how customers express intent, query understanding and reformulation. 
+I am an Applied Scientist at Amazon Search, working on LLM-powered search system that operate at scale. My current work focuses on personalized LLM systems, including post-training, personalization effectiveness, agentic evaluation, self-evolving agent, and latency-aware model serving. I bridge research and customer-facing production by developing LLM-powered systems on customer intent generation, query understanding and query reformulation. 
 
 I received my Ph.D. in Computer Science from Stony Brook University, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I received my M.S Degree from Chinese Academy of Sciences, and my B.S degree from Shandong University. My doctoral research studied how training objectives shape model behavior and reliability, with a focus on backdoor attacks and defenses, attention behavior, concept manipulation, and vulnerability analysis for language and vision-language models. I also work on efficient multimodal training and explainability, including clinical AI and whole-slide pathology vision-language modeling.
 
@@ -66,7 +66,7 @@ My research focuses on model safety across a range of applications, including te
 - 2026-05: My co-first-authored paper [Towards Representation Backdoor on CLIP via Concept Confusion](https://openreview.net/pdf?id=jQ91DETUIr) is accepted by TMLR! We propose backdoor attack method by concept manipulation on CLIP. 
 - 2026-05: [Long-Tailed Backdoor Attack Using Dynamic Data Augmentation Operations](https://openaccess.thecvf.com/content/CVPR2026W/SAIAD/html/Pang_Long-Tailed_Backdoor_Attack_Using_Dynamic_Data_Augmentation_Operations_CVPRW_2026_paper.html) is accepted by CVPR Workshop. We investigate the long-tail backdoor attack with data augmentation.
 - 2026-04: [OPERA](https://arxiv.org/abs/2506.05606) is accepted by ACL Main 2026! We propose a benchmark dataset for online shopping action simulation. 
-- 2026-02: CVPR 2026 accepted: [Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper.html), focusing on whole slides image efficiency and reasoning. 
+- 2026-02: CVPR 2026 accepted: [Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper.html), focusing on vision-language model efficiency and reasoning on whole slides image. 
 - 2025-08: Successfully defended my PhD thesis!
 - 2025-06: I’m honored to receive the prestigious [Catacosinos Fellowship](https://www.cs.stonybrook.edu/about-us/News/three-doctoral-students-receive-catacosinos-fellowship-excellence-computer-science), awarded annually to outstanding PhD students at Stony Brook University - only three winners this year!
 - 2025-05: Two papers accepted to ACL 2025! [CalD](https://aclanthology.org/2025.acl-long.1424/), led by Chenlu and [Prof. Ritwik Banerjee](https://www.ritwikbanerjee.com/), proposes an efficient framework for detecting deviant or nuanced language using smaller models. [RPA Evaluation](https://aclanthology.org/2025.findings-acl.938/), led by Chaoran, Bingsheng and [Prof. Dakuo Wang](https://www.dakuowang.com/), presents a comprehensive guideline for evaluating LLM-based role-playing agents.
@@ -93,9 +93,9 @@ My research focuses on model safety across a range of applications, including te
 	<img title="amazon" style="float: left; padding-right: 1.5em; padding-down: 1.5em; padding-up: 1.5em; width: 150px; max-height: 300px;" src="/images/industry/amazon.jpeg">
 		<div>
 			Amazon, Seattle, USA (May 2025 - Present)<br>
-			Applied Scientist @ Amazon Search<br>
+			Applied Scientist II @ Amazon Search<br>
 			<br>
-		    - Design LLM systems for personalized shopping search and navigation, focusing on post-training, personalization effectiveness, and agentic evaluation. <br>
+		    - Build LLM-powered search systems, focusing on post-training, personalization effectiveness, and agentic evaluation. <br>
 <!-- 		    - Developing post-training (instruction tuning, RL) and personalized training-data generation pipelines leveraging behavioral/contextual signals.<br>
 		    - Designing LLM-as-Judge evaluation for automated quality assessment, covering 55% of Search traffic.<br> -->
 		</div>
@@ -111,7 +111,7 @@ My research focuses on model safety across a range of applications, including te
 			Amazon, Seattle, USA (May 2024 - May 2025)<br>
 			Applied Scientist Intern<br>
 			<br>
-      		- Built the first-gen LLM Seller Foundation Model for seller-risk automation, exploring how LLMs can jointly model textual, numerical signals. <br>
+      		- Built the first-gen Seller Foundation Model for seller-risk automation, exploring how LLMs can jointly model textual, numerical signals. <br>
       		- Designed continuous pre-training and multi-task post-training to align representations and improve downstream prediction performance.<br>
       		- Delivered a production-oriented foundation-model prototype.<br>
 		</div>
