@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Weimin Lyu"
   avatar           : "/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Applied Scientist | Ph.D. \n Personalized LLM Systems · Post-training · Evaluation"
+  bio              : "Applied Scientist | Ph.D. | LLM-powered Search Systems · Post-training · Evaluation"
   location         :  "Seattle, WA"
   # email            : "insistweiminlv@gmail.com"
   links:
