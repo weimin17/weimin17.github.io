@@ -1,0 +1,13 @@
+<ul class="selected-publications">
+{% comment %}Hidden records remain in the data file; toggle hidden to restore them.{% endcomment %}
+{% for paper in site.data.selected_publications %}
+{% unless paper.hidden %}
+  <li id="paper-{{ paper.id }}">
+    <div class="publication-title"><strong>{{ paper.title | escape }}</strong></div>
+    <div class="publication-authors"><span class="publication-authors-list" id="authors-{{ paper.id }}">{% for author in paper.authors %}<span class="publication-author"{% if author.name == "Weimin Lyu" %} data-author-self{% endif %}>{% if author.name == "Weimin Lyu" %}<strong>{{ author.name | escape }}{% if author.equal_contribution %}<sup>*</sup>{% endif %}</strong>{% else %}{{ author.name | escape }}{% if author.equal_contribution %}<sup>*</sup>{% endif %}{% endif %}</span>{% unless forloop.last %}, {% endunless %}{% endfor %}</span></div>
+    <div class="publication-venue"><strong>{{ paper.venue | escape }}</strong>{% if paper.note %}{% unless paper.suppress_note %} · {{ paper.note | escape }}{% endunless %}{% endif %} · <a href="{{ paper.url | escape }}">[Paper]</a>{% if paper.code_url %} <a href="{{ paper.code_url | escape }}">[Code]</a>{% endif %}</div>
+    {% if paper.award %}<div class="publication-award">{{ paper.award | escape }}</div>{% endif %}
+  </li>
+{% endunless %}
+{% endfor %}
+</ul>

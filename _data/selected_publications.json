@@ -1,0 +1,551 @@
+[
+  {
+    "id": "locpath",
+    "title": "LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models",
+    "year": 2027,
+    "venue": "WACV 2027",
+    "url": "https://arxiv.org/abs/2512.05391",
+    "authors": [
+      {
+        "name": "Qingqiao Hu"
+      },
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Meilong Xu"
+      },
+      {
+        "name": "Xiaoling Hu"
+      },
+      {
+        "name": "Kehan Qi"
+      },
+      {
+        "name": "Saumya Gupta"
+      },
+      {
+        "name": "Jiawei Zhou"
+      },
+      {
+        "name": "Chao Chen"
+      }
+    ],
+    "code_url": "https://github.com/WinstonHuTiger/loc_path",
+    "note": "Accepted in 2026",
+    "suppress_note": true
+  },
+  {
+    "id": "momatune",
+    "title": "MoMaTune: Model, Match, Then Tune Language Models for Numerical Records",
+    "year": 2026,
+    "venue": "Preprint, 2026",
+    "url": "https://arxiv.org/abs/2610.15235",
+    "authors": [
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Jingfen Zhang"
+      },
+      {
+        "name": "Lingdao Sha"
+      },
+      {
+        "name": "Peng Sun"
+      },
+      {
+        "name": "Xiaowei Chen"
+      },
+      {
+        "name": "Vincent Gao"
+      },
+      {
+        "name": "Rui Song"
+      }
+    ]
+  },
+  {
+    "id": "paceshop",
+    "title": "PACEShop: Evaluating Personalized, Actionable, Compositional, and Evidence-grounded Shopping Assistants",
+    "year": 2026,
+    "venue": "EMNLP 2026 Findings",
+    "url": "https://aclanthology.org/2026.findings-emnlp.2121/",
+    "authors": [
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Chen Luo"
+      },
+      {
+        "name": "Guangrui Li"
+      },
+      {
+        "name": "Yaochen Xie"
+      },
+      {
+        "name": "Dhineshkumar Ramasubbu"
+      },
+      {
+        "name": "Arief Koesdwiady"
+      },
+      {
+        "name": "Wanqiu Long"
+      },
+      {
+        "name": "Hansu Gu"
+      },
+      {
+        "name": "Yutong Chen"
+      },
+      {
+        "name": "Zheshen Wang"
+      },
+      {
+        "name": "Dakuo Wang"
+      },
+      {
+        "name": "Yi Liu"
+      }
+    ]
+  },
+  {
+    "id": "opera",
+    "title": "OPeRA: A Dataset of Observation, Persona, Rationale, and Action for Evaluating LLMs on Human Online Shopping Behavior Simulation",
+    "year": 2026,
+    "venue": "ACL 2026",
+    "url": "https://aclanthology.org/2026.acl-long.2033/",
+    "authors": [
+      {
+        "name": "Ziyi Wang"
+      },
+      {
+        "name": "Yuxuan Lu"
+      },
+      {
+        "name": "Wenbo Li"
+      },
+      {
+        "name": "Amirali Amini"
+      },
+      {
+        "name": "Bo Sun"
+      },
+      {
+        "name": "Yakov Bart"
+      },
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Jiri Gesi"
+      },
+      {
+        "name": "Tian Wang"
+      },
+      {
+        "name": "Jing Huang"
+      },
+      {
+        "name": "Yu Su"
+      },
+      {
+        "name": "Upol Ehsan"
+      },
+      {
+        "name": "Malihe Alikhani"
+      },
+      {
+        "name": "Toby Jia-Jun Li"
+      },
+      {
+        "name": "Lydia Chilton"
+      },
+      {
+        "name": "Dakuo Wang"
+      }
+    ]
+  },
+  {
+    "id": "pathologist",
+    "title": "Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning",
+    "year": 2026,
+    "venue": "CVPR 2026",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper.html",
+    "authors": [
+      {
+        "name": "Wentao Huang"
+      },
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Peiliang Lou"
+      },
+      {
+        "name": "Qingqiao Hu"
+      },
+      {
+        "name": "Xiaoling Hu"
+      },
+      {
+        "name": "Shahira Abousamra"
+      },
+      {
+        "name": "Wenchao Han"
+      },
+      {
+        "name": "Ruifeng Guo"
+      },
+      {
+        "name": "Jiawei Zhou"
+      },
+      {
+        "name": "Chao Chen"
+      },
+      {
+        "name": "Chen Wang"
+      }
+    ]
+  },
+  {
+    "id": "updiff_uda",
+    "title": "Multi-Channel Uncertainty-Weighted Score Matching for Conditional Diffusion in Medical UDA",
+    "year": 2026,
+    "venue": "ECCV 2026",
+    "url": "https://arxiv.org/abs/2509.22476",
+    "authors": [
+      {
+        "name": "Chen Li"
+      },
+      {
+        "name": "Meilong Xu"
+      },
+      {
+        "name": "Xiaoling Hu"
+      },
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Chao Chen"
+      }
+    ],
+    "code_url": "https://github.com/superlc1995/Multi-Channel-Uncertainty-Diffusion-UDA"
+  },
+  {
+    "id": "longtail",
+    "title": "Long-Tailed Backdoor Attack Using Dynamic Data Augmentation Operations",
+    "year": 2026,
+    "venue": "CVPR 2026 Workshops",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026W/SAIAD/html/Pang_Long-Tailed_Backdoor_Attack_Using_Dynamic_Data_Augmentation_Operations_CVPRW_2026_paper.html",
+    "authors": [
+      {
+        "name": "Lu Pang"
+      },
+      {
+        "name": "Tao Sun"
+      },
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Haibin Ling"
+      },
+      {
+        "name": "Chao Chen"
+      }
+    ],
+    "hidden": true,
+    "_comment": "Hidden at author request: omit the CVPR 2026 workshop paper. Record retained for later reuse."
+  },
+  {
+    "id": "cliparxiv",
+    "title": "Towards Representation Backdoor on CLIP via Concept Confusion",
+    "year": 2026,
+    "venue": "TMLR 2026",
+    "url": "https://openreview.net/forum?id=jQ91DETUIr",
+    "authors": [
+      {
+        "name": "Lijie Hu",
+        "equal_contribution": true
+      },
+      {
+        "name": "Junchi Liao",
+        "equal_contribution": true
+      },
+      {
+        "name": "Weimin Lyu",
+        "equal_contribution": true
+      },
+      {
+        "name": "Shaopeng Fu"
+      },
+      {
+        "name": "Tianhao Huang"
+      },
+      {
+        "name": "Shu Yang"
+      },
+      {
+        "name": "Guimin Hu"
+      },
+      {
+        "name": "Di Wang"
+      }
+    ]
+  },
+  {
+    "id": "vlood",
+    "title": "Backdooring Vision-Language Models with Out-Of-Distribution Data",
+    "year": 2025,
+    "venue": "ICLR 2025",
+    "url": "https://openreview.net/forum?id=tZozeR3VV7",
+    "authors": [
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Jiachen Yao"
+      },
+      {
+        "name": "Saumya Gupta"
+      },
+      {
+        "name": "Lu Pang"
+      },
+      {
+        "name": "Tao Sun"
+      },
+      {
+        "name": "Lingjie Yi"
+      },
+      {
+        "name": "Lijie Hu"
+      },
+      {
+        "name": "Haibin Ling"
+      },
+      {
+        "name": "Chao Chen"
+      }
+    ]
+  },
+  {
+    "id": "tcp_llava",
+    "title": "Efficient Whole Slide Pathology VQA via Token Compression",
+    "year": 2025,
+    "venue": "Preprint, 2025",
+    "url": "https://arxiv.org/abs/2507.14497",
+    "authors": [
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Qingqiao Hu"
+      },
+      {
+        "name": "Kehan Qi"
+      },
+      {
+        "name": "Zhan Shi"
+      },
+      {
+        "name": "Wentao Huang"
+      },
+      {
+        "name": "Saumya Gupta"
+      },
+      {
+        "name": "Chao Chen"
+      }
+    ],
+    "hidden": true,
+    "_comment": "Hidden at author request: 2025 and earlier selections must be accepted papers. Record retained for later reuse."
+  },
+  {
+    "id": "trojvlm",
+    "title": "TrojVLM: Backdoor Attack Against Vision Language Models",
+    "year": 2024,
+    "venue": "ECCV 2024",
+    "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08278.pdf",
+    "authors": [
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Lu Pang"
+      },
+      {
+        "name": "Tengfei Ma"
+      },
+      {
+        "name": "Haibin Ling"
+      },
+      {
+        "name": "Chao Chen"
+      }
+    ]
+  },
+  {
+    "id": "badclm",
+    "title": "BadCLM: Backdoor Attack in Clinical Language Models for Electronic Health Records",
+    "year": 2024,
+    "venue": "AMIA 2024",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12099347/",
+    "authors": [
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Zexin Bi"
+      },
+      {
+        "name": "Fusheng Wang"
+      },
+      {
+        "name": "Chao Chen"
+      }
+    ],
+    "award": "Best Student Paper Finalist"
+  },
+  {
+    "id": "detector",
+    "title": "Task-Agnostic Detector for Insertion-Based Backdoor Attacks",
+    "year": 2024,
+    "venue": "NAACL 2024 Findings",
+    "url": "https://aclanthology.org/2024.findings-naacl.179/",
+    "authors": [
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Xiao Lin"
+      },
+      {
+        "name": "Songzhu Zheng"
+      },
+      {
+        "name": "Lu Pang"
+      },
+      {
+        "name": "Haibin Ling"
+      },
+      {
+        "name": "Susmit Jha"
+      },
+      {
+        "name": "Chao Chen"
+      }
+    ]
+  },
+  {
+    "id": "tal",
+    "title": "Attention-Enhancing Backdoor Attacks Against BERT-based Models",
+    "year": 2023,
+    "venue": "EMNLP 2023 Findings",
+    "url": "https://aclanthology.org/2023.findings-emnlp.716/",
+    "authors": [
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Songzhu Zheng"
+      },
+      {
+        "name": "Lu Pang"
+      },
+      {
+        "name": "Haibin Ling"
+      },
+      {
+        "name": "Chao Chen"
+      }
+    ]
+  },
+  {
+    "id": "multimodal",
+    "title": "A Multimodal Transformer: Fusing Clinical Notes with Structured EHR Data for Interpretable In-Hospital Mortality Prediction",
+    "year": 2022,
+    "venue": "AMIA 2022",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10148371/",
+    "authors": [
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Xinyu Dong"
+      },
+      {
+        "name": "Rachel Wong"
+      },
+      {
+        "name": "Songzhu Zheng"
+      },
+      {
+        "name": "Kayley Abell-Hart"
+      },
+      {
+        "name": "Fusheng Wang"
+      },
+      {
+        "name": "Chao Chen"
+      }
+    ],
+    "code_url": "https://github.com/weimin17/Multimodal_Transformer",
+    "award": "Best Student Paper Finalist"
+  },
+  {
+    "id": "attention",
+    "title": "A Study of the Attention Abnormality in Trojaned BERTs",
+    "year": 2022,
+    "venue": "NAACL 2022",
+    "url": "https://aclanthology.org/2022.naacl-main.348/",
+    "authors": [
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Songzhu Zheng"
+      },
+      {
+        "name": "Tengfei Ma"
+      },
+      {
+        "name": "Chao Chen"
+      }
+    ],
+    "code_url": "https://github.com/weimin17/attention_abnormality_in_trojaned_berts",
+    "award": "Oral Presentation"
+  },
+  {
+    "id": "semeval",
+    "title": "CUNY-PKU Parser at SemEval-2019 Task 1: Cross-Lingual Semantic Parsing with UCCA",
+    "year": 2019,
+    "venue": "SemEval 2019",
+    "url": "https://aclanthology.org/S19-2012/",
+    "authors": [
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Sheng Huang"
+      },
+      {
+        "name": "Abdul Rafae Khan"
+      },
+      {
+        "name": "Shengqiang Zhang"
+      },
+      {
+        "name": "Weiwei Sun"
+      },
+      {
+        "name": "Jia Xu"
+      }
+    ],
+    "hidden": true,
+    "_comment": "Hidden at author request: omit CUNY-PKU from the displayed publication list. Record retained."
+  }
+]

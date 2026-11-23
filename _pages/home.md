@@ -1,72 +1,78 @@
 ---
 permalink: /
-author_profile: True
+layout: editorial-home
+author_profile: false
 share: false
-layout: single
-classes: wide
+profile_role: "Applied Scientist · Amazon"
 ---
 
+<section class="section" id="about" markdown="1">
+<h2>About</h2>
 
+<div class="prose" markdown="1">
 
-<style>a{TEXT-DECORATION:none; color: #990000;}a:hover{TEXT-DECORATION:underline; color: #990000;}</style>
+I am an Applied Scientist at Amazon, focusing on **foundation model post-training** and **agentic systems**, with experience spanning small language models optimized for low-latency inference at scale and foundation models with over 500B+ parameters.
 
-## About Me
+At Amazon Ads, I work on large-scale foundation model post-training and agentic systems for [Amazon Ads Agent](https://advertising.amazon.com/solutions/products/ads-agent). Previously, at Amazon Search, I was a **founding member of three research-to-production initiatives**, each developed from inception to deployment: (1) Behavior-grounded personalized recommendations system, deployed at scale and now a core product capability within Amazon Search Navigation; (2) Evaluating AI-generated Shopping response, [AI Overview for Alexa for Shopping](https://www.aboutamazon.com/news/retail/alexa-for-shopping-ai-assistant) (formerly Rufus) (paper: [EMNLP 26](https://aclanthology.org/2026.findings-emnlp.2121/)); and (3) A domain-specific foundation model for numerical records, developed through continued pre-training and post-training (paper: [MoMaTune](https://arxiv.org/abs/2610.15235)). 
 
+I received my Ph.D. in Computer Science from Stony Brook University, advised by [Chao Chen](https://chaochen.github.io/). My doctoral research studied backdoor security in language and vision-language models. I also studied efficient multimodal learning for whole-slide pathology. Previously, I earned an M.S. in Information Science from the Chinese Academy of Sciences and a B.S. in Statistics from Shandong University.
 
-<!-- - 2026.05.31 -->
+</div>
+</section>
 
-I am an Applied Scientist at Amazon Search, working on LLM-powered search system that operate at scale. My current work focuses on personalized LLM systems, including post-training, personalization effectiveness, agentic evaluation, self-evolving agent, and latency-aware model serving. I bridge research and customer-facing production by developing LLM-powered systems on customer intent generation, query understanding and query reformulation. 
+<section class="section" id="research-interests">
+<h2>Research Interests</h2>
+<ol class="research-list" role="list">
+  <li>
+    <span class="research-number" aria-hidden="true">01</span>
+    <div class="research-detail">
+      <h3>Foundation Model Post-Training &amp; Scaling</h3>
+      <p>Model Training (Small LMs to 500B+) · Model Distillation &amp; Adaptation · Distributed Training</p>
+    </div>
+  </li>
+  <li>
+    <span class="research-number" aria-hidden="true">02</span>
+    <div class="research-detail">
+      <h3>Agentic Systems &amp; RSI</h3>
+      <p>Agentic RL · Scalable Training Environments · Agent Harness Evolving · Context Engineering &amp; Memory · Tool Use &amp; Long-Horizon Agents</p>
+    </div>
+  </li>
+  <li>
+    <span class="research-number" aria-hidden="true">03</span>
+    <div class="research-detail">
+      <h3>Grounded &amp; Personalized AI</h3>
+      <p>Generative Recommendation · Behavior-Grounded Generation · User Modeling · Preference Data Generation · Personalized Evaluation</p>
+    </div>
+  </li>
+  <li>
+    <span class="research-number" aria-hidden="true">04</span>
+    <div class="research-detail">
+      <h3>Evaluation</h3>
+      <p>Agent Evaluation · LLM System Evaluation · Offline–Online Alignment</p>
+    </div>
+  </li>
+</ol>
+<p class="earlier-research"><strong>Earlier Research:</strong> Backdoor Security in Language and Vision-Language Models · Multimodal Learning for Whole-Slide Pathology</p>
+</section>
 
-I received my Ph.D. in Computer Science from Stony Brook University, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I received my M.S Degree from Chinese Academy of Sciences, and my B.S degree from Shandong University. My doctoral research studied how training objectives shape model behavior and reliability, with a focus on backdoor attacks and defenses, attention behavior, concept manipulation, and vulnerability analysis for language and vision-language models. I also work on efficient multimodal training and explainability, including clinical AI and whole-slide pathology vision-language modeling.
+<section class="section" id="news" markdown="1">
+<h2>News</h2>
 
-Across my Ph.D. and industry work, my research path centers on model behavior: how it fails, how it can be controlled, and how it should be evaluated. 
-<!-- My long-term goal is to build AI systems that are personalized, controllable, efficient, and measurable in real-world settings.
- -->
- <!-- Projects I led has achieved multi-million-dollar annualized business impact improvement in production. -->
+<div class="news-scroll" role="region" aria-label="Latest news" tabindex="0" markdown="1">
 
+- **2026-10:** First-authored [MoMaTune](https://arxiv.org/abs/2610.15235) is on arXiv: a two-stage training recipe (continued pretraining → consistency → SFT) that fixes decoder LMs on numerical records, 1.5B–27B.
+- **2026-08:** First-authored [PACEShop](https://aclanthology.org/2026.findings-emnlp.2121/) accepted to EMNLP 2026 Findings: a 22k-record benchmark and a training-free structured judge for personalized shopping assistants.
+- **2026-05:** [Representation backdoor on CLIP via concept confusion](https://openreview.net/forum?id=jQ91DETUIr) accepted to TMLR (co-first author).
+- **2026-04:** [OPERA](https://aclanthology.org/2026.acl-long.2033/) accepted to ACL 2026 Main.
+- **2026-02:** [Act Like a Pathologist](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper.html) accepted to CVPR 2026.
+- **Accepted:** [LoC-Path](https://arxiv.org/abs/2512.05391) accepted to WACV 2027.
 
+</div>
 
-<!-- 
-- 2026.05.31
-Hi! I am currently an Applied Scientist at Amazon Search, where I focus on leveraging Large Language Models (LLMs) to enhance the shopping experience. I completed my PhD Study in Computer Science at <a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow">Stony Brook University</a>, advised by <a href="https://chaochen.github.io/index.html" target="_blank" rel="nofollow">Prof. Chao Chen</a>. I have also been fortunate to collaborate with Professors
-<a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank" rel="nofollow">Haibin Ling</a>, 
-<a href="https://www3.cs.stonybrook.edu/~fuswang/" target="_blank" rel="nofollow">Fusheng Wang</a>, and
-<a href="https://sites.google.com/site/matf0123/" target="_blank" rel="nofollow">Tengfei Ma</a>. 
+<details class="older-news">
+<summary>Older News</summary>
+<div markdown="1">
 
- -->
-
-
-<!-- 
-
-## Research Interests
-
-My research centers on how training objectives shape the internal behaviors of LLMs and VLMs, and how to make those behaviors controllable, efficient, and safe:
-
-- <b>Training Dynamics & Alignment</b>: Instruction/post-training for representation alignment and safe controllability in LLMs, ViTs, and VLMs; connecting training objectives with model reliability and behavior shaping.
-- <b>Efficient Multimodal Learning</b>: Token compression and resource-efficient model design for whole slide pathology image analysis using vision-language models like LLaVA.
-- <b>Model Explainability in Clinical AI</b>: Interpretable modeling of electronic health records using transformers and multimodal fusion.
-- <b>LLM-based Personalization</b>: Customer understanding for search/navigation, including personalization data generation, signal compression/memorization, post-training and evaluation.
-
- -->
-<!-- 
-2025.08.01 before
-My research focuses on model safety across a range of applications, including text-based problems (BERT variants, LLMs), image classification (CNNs, Vision Transformers, CLIP), and multimodal image-to-text generation with Vision-Language Models (BLIP-2, MiniGPT-4, LLaVA, InstructBLIP). I also specialize in explainability for clinical language models using Electronic Health Records.
- -->
-
-<!-- My research focuses on understanding the mechanisms of deep learning models and developing algorithms to intentionally train models for specific behaviors, such as backdoor attack and defense strategies. Application areas span across Natural Language Processing and Computer Vision, including BERT variants, Vision Transformers (ViTs), and Vision-Language Models. I also have industry experience in training Large Language Foundation Models, and experience in explainability for clinical decision-making with Electronic Health Records (EHR).
- -->
-
-
-<!-- My research mainly focuses on <b>Trustworthy AI</b>, especially backdoor attacks/defenses. My goal is to <b>enhance the security of Deep Learning-based models throughout their entire life cycle</b>. The application areas include different tasks across Natural Language Processing and Computer Vision. Experience on explainability in Healthcare and clinical decision making with EHR. Recently I focus on <b>Vision-Language Understanding</b> and <b>Large Language Models</b>. -->
-
-
-
-
-## News
-- 2026-05: My co-first-authored paper [Towards Representation Backdoor on CLIP via Concept Confusion](https://openreview.net/pdf?id=jQ91DETUIr) is accepted by TMLR! We propose backdoor attack method by concept manipulation on CLIP. 
-- 2026-05: [Long-Tailed Backdoor Attack Using Dynamic Data Augmentation Operations](https://openaccess.thecvf.com/content/CVPR2026W/SAIAD/html/Pang_Long-Tailed_Backdoor_Attack_Using_Dynamic_Data_Augmentation_Operations_CVPRW_2026_paper.html) is accepted by CVPR Workshop. We investigate the long-tail backdoor attack with data augmentation.
-- 2026-04: [OPERA](https://arxiv.org/abs/2506.05606) is accepted by ACL Main 2026! We propose a benchmark dataset for online shopping action simulation. 
-- 2026-02: CVPR 2026 accepted: [Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper.html), focusing on vision-language model efficiency and reasoning on whole slides image. 
 - 2025-08: Successfully defended my PhD thesis!
 - 2025-06: I’m honored to receive the prestigious [Catacosinos Fellowship](https://www.cs.stonybrook.edu/about-us/News/three-doctoral-students-receive-catacosinos-fellowship-excellence-computer-science), awarded annually to outstanding PhD students at Stony Brook University - only three winners this year!
 - 2025-05: Two papers accepted to ACL 2025! [CalD](https://aclanthology.org/2025.acl-long.1424/), led by Chenlu and [Prof. Ritwik Banerjee](https://www.ritwikbanerjee.com/), proposes an efficient framework for detecting deviant or nuanced language using smaller models. [RPA Evaluation](https://aclanthology.org/2025.findings-acl.938/), led by Chaoran, Bingsheng and [Prof. Dakuo Wang](https://www.dakuowang.com/), presents a comprehensive guideline for evaluating LLM-based role-playing agents.
@@ -82,426 +88,16 @@ My research focuses on model safety across a range of applications, including te
 - 2022-04: One first-authored paper "[A Study of the Attention Abnormality in Trojaned BERTs](https://aclanthology.org/2022.naacl-main.348/)" is accepted by [NAACL 2022](https://2022.naacl.org/)! 
 - 2020-09: Start my Computer Science Ph.D. journey at Stony Brook University!
 
-
-
-
-## Industry Experience
-
-
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="amazon" style="float: left; padding-right: 1.5em; padding-down: 1.5em; padding-up: 1.5em; width: 150px; max-height: 300px;" src="/images/industry/amazon.jpeg">
-		<div>
-			Amazon, Seattle, USA (May 2025 - Present)<br>
-			Applied Scientist II @ Amazon Search<br>
-			<br>
-		    - Built LLM-powered search systems, focusing on post-training, personalization effectiveness, and agentic evaluation. <br>
-<!-- 		    - Developing post-training (instruction tuning, RL) and personalized training-data generation pipelines leveraging behavioral/contextual signals.<br>
-		    - Designing LLM-as-Judge evaluation for automated quality assessment, covering 55% of Search traffic.<br> -->
-		</div>
-	</div>
 </div>
+</details>
 
+</section>
 
+<section class="section" id="selected-publications" markdown="1">
+<h2>Selected Publications</h2>
 
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="amazon" style="float: left; padding-right: 1.5em; padding-down: 1.5em; padding-up: 1.5em; width: 150px; max-height: 300px;" src="/images/industry/amazon.jpeg">
-		<div>
-			Amazon, Seattle, USA (May 2024 - May 2025)<br>
-			Applied Scientist Intern<br>
-			<br>
-      		- Built the first-gen Seller Foundation Model for seller-risk automation, exploring how LLMs can jointly model textual, numerical signals. <br>
-      		- Designed continuous pre-training and multi-task post-training to align representations and improve downstream prediction performance.<br>
-      		- Delivered a production-oriented foundation-model prototype.<br>
-		</div>
-	</div>
-</div>
+Full publication list: [Google Scholar](https://scholar.google.com/citations?user=IVed47cAAAAJ&hl=en). <span class="publication-legend">* Equal contribution.</span>
 
+{% include selected-publications.html %}
 
-
-<!-- 
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="yidutech" style="float: left; padding-right: 1.5em; padding-down: 1.5em; padding-up: 1.5em; width: 150px; max-height: 300px;" src="/images/industry/yidutech2.jpeg">
-		<div>
-			<b><a href="https://www.yidutechgroup.com/en/index.html" target="_blank" rel="nofollow">Yidu Tech Inc.</a></b> (Top 10 Artificial Intelligence Enterprises in China (2020)), Beijing, China (Aug 2018 - Aug 2020)<br>
-			Consultant (Software Development Engineer)<br>
-			- Smart finger ring developer (Build a sleep lab on your finger!)<br>
-            - Develop a sleep tracker: in-depth analysis about your deep sleep, light sleep, blood oxygen levels, heart rate trend, and more<br>
-            - Process Photoplethysmography (PPG) signal and movement tracks during sleeping<br>
-  
-		</div>
-	</div>
-</div> -->
-
-
-<!-- 
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="k2data" style="float: left; padding-right: 1.5em; width: 150px; max-height: 150px;" src="/images/industry/k2data.png">
-		<div>
-			<b><a href="https://www.k2data.com.cn/" target="_blank" rel="nofollow">K2Data</a></b> (Top 50 AI Company in China (2020)), Beijing, China (May 2018 - Aug 2018)<br>
-			Machine Learning Intern<br>
-			- Serve as the core member in a three-people team; Implement Object Detection (Helmet-Detection Problem) algorithms, and the algorithm has been deployed in over 2,000 factories.<br>
-			- Design and implement applications for object detection in real-time video<br>
-            - Increase performance of safety helmet detection to 90% in industry level<br>
-            - Main contributor in a 3-people team; the algorithm has been deployed in over 2,000 factories<br>
-		</div>
-	</div>
-</div>
- -->
-
-
-
-
-
-
-## Selected Publications
-
-This publication list is outdated. Full and latest publications can be found in [Google Scholar](https://scholar.google.com/citations?user=IVed47cAAAAJ&hl=en).
-
-<!-- ### Preprint -->
-
-
-
-
-<!-- 
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto;">
-	<img title="TechReport1" style="float: left; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2022_1.png">
-		<div>
-			<b>Attention Hijacking in Trojan Transformers</b><br>
-			<u>Weimin Lyu</u>, Songzhu Zheng, Tengfei Ma, Haibin Ling, Chao Chen<br>
-			<em>Tech Report</em><br>
-			[<a href="https://arxiv.org/abs/2208.04946" target="_blank" rel="nofollow">arXiv</a>]<br>
-		</div>
-	</div>
-</div> -->
-
-
-
-
-
-
-### Conference/Workshop/Journal 
-<!-- keep its original aspect ratio while fitting into a consistent bounding box size -->
-
-<!-- ArXiv -->
-<!-- <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto;">
-	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 200px; max-height: 80px;" src="/images/pub/tech2025_1.jpg">
-		<div> -->
-<div style="margin-bottom: 0em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
-	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; margin-right: 0.1em;">
-		<img src="/images/pub/tech2025_1.jpg" alt="ICLR2025" title="ICLR2025"
-         style="max-width: 100%; max-height: 100%; object-fit: contain;" />
-	</div>
-	<div style="flex: 1; min-width: 200px;">
-			<b>Efficient Whole Slide Pathology VQA via Token Compression</b><br>
-			<u>Weimin Lyu</u>, Qingqiao Hu, Kehan Qi, Zhan Shi, Wentao Huang, Saumya Gupta, Chao Chen<br>
-			<em>In Submission</em><br>
-			<a href="https://arxiv.org/pdf/2507.14497" target="_blank" rel="ArXiv">[ArXiv]</a><br>
-	</div>
-</div>
-
-
----
-
-
-<!-- ACL2025-1-->
-<!-- <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto;">
-	<img title="ACL2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 200px; max-height: 80px;" src="/images/pub/acl2025_1_CalD.png">
-		<div>
- -->
- <div style="margin-bottom: 0em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
-	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 0.1em;">
-		<img src="/images/pub/acl2025_1_CalD.png" alt="ACL2025" title="ACL2025"
-         style="max-width: 100%; max-height: 100%; object-fit: contain;" />
-	</div>
-	<div style="flex: 1; min-width: 200px;">
-			<b>Class Distillation with Mahalanobis Contrast: An Efficient Training Paradigm for Pragmatic Language Understanding Tasks</b><br>
-			Chenlu Wang, <u>Weimin Lyu</u>, Ritwik Banerjee<br>
-			<em>Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (<b>ACL 2025</b>)</em><br>
-			<a href="https://aclanthology.org/2025.acl-long.1424/" target="_blank" rel="ACL">[ACL]</a><br>
-	</div>
-</div>
-
-
----
-
-
-<!-- ACL2025-2-->
-<!-- <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto;">
-	<img title="ACL2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/acl2025_2_RPA.jpg">
-		<div> -->
-<div style="margin-bottom: 0em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
-	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 0.1em;">
-		<img src="/images/pub/acl2025_2_RPA.jpg" alt="ACL2025" title="ACL2025"
-         style="max-width: 100%; max-height: 100%; object-fit: contain;" />
-	</div>
-	<div style="flex: 1; min-width: 200px;">
-			<b>Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents</b><br>
-			Chaoran Chen, Bingsheng Yao, Ruishi Zou, Wenyue Hua, <u>Weimin Lyu</u>, Toby Jia-Jun Li, Dakuo Wang<br>
-			<em>Findings of the Association for Computational Linguistics: ACL 2025 (<b>ACL 2025</b>)</em><br>
-			<a href="https://aclanthology.org/2025.findings-acl.938/" target="_blank" rel="ACL">[ACL]</a><br>
-	</div>
-</div>
-
-
-
-
----
-
-
-
-<!-- ICLR2025-3 -->
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto;">
-	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/iclr_3_lingjie.png">
-		<div>
-			<b>Geometry of Long-Tailed Representation Learning: Rebalancing Features for Skewed Distributions</b><br>
-			Lingjie Yi, Jiachen Yao, <u>Weimin Lyu</u>, Haibin Ling, Raphael Douady, Chao Chen<br>
-			<em>The Thirteenth International Conference on Learning Representations (<b>ICLR 2025</b>)</em><br>
-			<a href="https://openreview.net/pdf?id=GySIAKEwtZ" target="_blank" rel="ICLR">[ICLR]</a><br>
-		</div>
-	</div>
-</div>
-
-
----
-
-
-<!-- ICLR2025-2 -->
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto;">
-	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/iclr_2_impscore.jpg">
-		<div>
-			<b>ImpScore: A Learnable Metric For Quantifying The Implicitness Level of Language</b><br>
-			Yuxin Wang, Xiaomeng Zhu*, <u>Weimin Lyu*</u>, Saeed Hassanpour, Soroush Vosoughi<br>
-			<em>The Thirteenth International Conference on Learning Representations (<b>ICLR 2025</b>)(<b style="color:red;">Spotlight</b>)</em><br>
-			<a href="https://openreview.net/pdf?id=gYWqxXE5RJ" target="_blank" rel="ICLR">[ICLR]</a><br>
-
-		</div>
-	</div>
-</div>
-
-
-
-
-
----
-
-
-
-
-<!-- ICLR2025 -->
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto;">
-	<img title="ICLR2025" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/tech2024_1.jpg">
-		<div>
-			<b>Backdooring Vision-Language Models with Out-Of-Distribution Data</b><br>
-			<u>Weimin Lyu</u>, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen<br>
-			<em>The Thirteenth International Conference on Learning Representations (<b>ICLR 2025</b>)</em><br>
-			<a href="https://openreview.net/pdf?id=tZozeR3VV7" target="_blank" rel="ICLR">[ICLR]</a><br>
-
-		</div>
-	</div>
-</div>
-
-
----
-
-
-<!-- WACV2025 -->
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="wacv2025" style="float: left; margin-top: 25; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/wacv2025.png">
-		<div>
-			<b>PivotAlign: Improve Semi-Supervised Learning by Learning Intra-Class Heterogeneity and Aligning with Pivots</b><br>
-			Lingjie Yi, Tao Sun, Yikai Zhang, Songzhu Zheng, <u>Weimin Lyu</u>, Haibin Ling, Chao Chen<br>
-			<em>IEEE/CVF Winter Conference on Applications of Computer Vision (<b>WACV 2025</b>)</em> <br>
-			<a href="https://openaccess.thecvf.com/content/WACV2025/papers/Yi_PivotAlign_Improve_Semi-Supervised_Learning_by_Learning_Intra-Class_Heterogeneity_and_Aligning_WACV_2025_paper.pdf" target="_blank" rel="WACV">[WACV]</a><br>
-		</div>
-	</div>
-</div>
-
-
-
----
-
-
-
-
-<!-- ECCV2024 -->
-<!-- <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="eccv2024" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/eccv2024.jpg">
-		<div> -->
-
-<div style="margin-bottom: 0em; display: flex; flex-wrap: wrap; align-items: center; background-color: #fff; border: 0;">
-	<div style="width: 300px; height: 100px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-right: 0.1em;">
-		<img src="/images/pub/eccv2024.jpg" alt="ECCV2024" title="ECCV2024"
-         style="max-width: 100%; max-height: 100%; object-fit: contain;" />
-	</div>
-	<div style="flex: 1; min-width: 200px;">
-			<b>TrojVLM: Backdoor Attack Against Vision Language Models</b><br>
-			<u>Weimin Lyu</u>, Lu Pang, Tengfei Ma, Haibin Ling, Chao Chen<br>
-			<em>The 18th European Conference on Computer Vision (<b>ECCV 2024</b>)</em> <br>
-			[<a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08278.pdf" target="_blank" rel="ECCV">ECCV</a>]<br>
-	</div>
-</div>
-
-
-
----
-
-
-
-<!-- AMIA2024 -->
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="amia2024" style="float: left; margin-top: 50px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/amia2024.jpg">
-		<div>
-			<b>BadCLM: Backdoor Attack in Clinical Language Models for Electronic Health Records</b><br>
-			<u>Weimin Lyu</u>, Zexin Bi, Fusheng Wang, Chao Chen<br>
-			<em>American Medical Informatics Association Annual Symposium (<b>AMIA 2024</b>)</em> (<b style="color:red;">Best Student Paper Finalist</b>)<br>
-			[<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12099347/" target="_blank" rel="nofollow">arXiv</a>]<br>
-		</div>
-	</div>
-</div>
-
-
----
-
-
-
-
-
-
-<!-- NAACL2024 -->
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="naacl2024" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/naacl2024_tabdet.jpg">
-		<div>
-			<b>Task-Agnostic Detector for Insertion-Based Backdoor Attacks</b><br>
-			<u>Weimin Lyu</u>, Xiao Lin, Songzhu Zheng, Lu Pang, Haibin Ling, Susmit Jha, Chao Chen<br>
-			<em>The Findings of 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (<b>NAACL 2024</b>)</em> <br>
-			[<a href="https://aclanthology.org/2024.findings-naacl.179/" target="_blank" rel="nofollow">NAACL</a>]<br>
-		</div>
-	</div>
-</div>
-
-
-
----
-
-
-
-
-
-<!-- Findings of EMNLP'23 -->
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto;">
-	<img title="emnlp2023" style="float: left; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/emnlp2023.jpg">
-		<div>
-			<b>Attention-Enhancing Backdoor Attacks Against BERT-based Models</b><br>
-			<u>Weimin Lyu</u>, Songzhu Zheng, Lu Pang, Haibin Ling, Chao Chen<br>
-			<em>The Findings of 2023 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2023</b>)</em> (A short version is accepted as <b style="color:red;">Oral</b> at ICLR 2023 Workshop on BANDS)<br>
-			[<a href="https://aclanthology.org/2023.findings-emnlp.716.pdf" target="_blank" rel="nofollow">EMNLP</a>][<a href="https://github.com/weimin17/" target="_blank" rel="nofollow">Code</a>]<br>
-
-		</div>
-	</div>
-</div>
-
----
-
-
-<!-- ICLR 2023 Workshop on BANDS -->
-<!-- <div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto;">
-	<img title="emnlp2023" style="float: left; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/emnlp2023.jpg">
-		<div>
-			<b>On the Existence of a Trojaned Twin Model</b><br>
-			Songzhu Zheng, Yikai Zhang, <u>Weimin Lyu</u>, Mayank Goswami, Anderson Schneider, Yuriy Nevmyvaka, Haibin Ling, Chao Chen<br>
-			<em>(<b>ICLR 2023 Workshop on BANDS</b>), 2023</em><br>
-			[<a href="https://openreview.net/pdf?id=w48XN5HwpV8" target="_blank" rel="nofollow">OpenReview</a>]<br>
-
-		</div>
-	</div>
-</div>
- -->
-
-
-
-
-<!-- AIIM -->
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="aiim2022" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/aiim2022.jpg">
-		<div>
-			<b>An Integrated LSTM-HeteroRGNN Model for Interpretable Opioid Overdose Risk Prediction</b><br>
-			Xinyu Dong, Rachel Wong, <u>Weimin Lyu</u>, Kayley Abell-Hart, Janos G Hajagos, Richard N Rosenthal, Chao Chen, Fusheng Wang<br>
-			<em>Artificial Intelligence in Medicine (<b>AIIM 2022</b>)</em><br>
-			[<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9630306/" target="_blank" rel="nofollow">AIIM</a>]<br>
-		</div>
-	</div>
-</div>
-
-
----
-
-<!-- AMIA2022 -->
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="amia2022" style="float: left; margin-top: 50px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/amia2022.jpg">
-		<div>
-			<b>A Multimodal Transformer: Fusing Clinical Notes With Structured EHR Data for Interpretable In-Hospital Mortality Prediction</b><br>
-			<u>Weimin Lyu</u>, Xinyu Dong, Rachel Wong, Songzhu Zheng , Kayley Abell-Hart, Fusheng Wang, Chao Chen<br>
-			<em>American Medical Informatics Association Annual Symposium (<b>AMIA 2022</b>)</em> (<b style="color:red;">Best Student Paper Finalist</b>)<br>
-			[<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10148371/" target="_blank" rel="nofollow">AMIA</a>][<a href="https://github.com/weimin17/Multimodal_Transformer" target="_blank" rel="nofollow">Code</a>]<br>
-		</div>
-	</div>
-</div>
-
-
----
-
-
-<!-- NAACL2022 -->
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="naacl2022" style="float: left; margin-top: 40px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/naacl2022.jpg">
-		<div>
-			<b>A Study of the Attention Abnormality in Trojaned BERTs</b><br>
-			<u>Weimin Lyu</u>, Songzhu Zheng, Tengfei Ma, Chao Chen<br>
-			<em>The 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (<b>NAACL 2022</b>)(<b style="color:red;">Oral</b>)</em> <br>
-			[<a href="https://aclanthology.org/2022.naacl-main.348/" target="_blank" rel="nofollow">NAACL</a>][<a href="https://github.com/weimin17/attention_abnormality_in_trojaned_berts" target="_blank" rel="nofollow">Code</a>]<br>
-		</div>
-	</div>
-</div>
-
-
-
----
-
-
-
-<!-- ACL@Semeval2019 -->
-
-<!-- 
-<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff">
-	<div style="margin: 0px auto; ustify-content: center; align-items: center;">
-	<img title="acl2019" style="float: left; margin-top: 30px; padding-right: 1.5em; width: 300px; max-height: 100px;" src="/images/pub/acl@seml2019.jpg">
-		<div>
-			<b>CUNY-PKU Parser at SemEval-2019 Task 1: Cross-Lingual Semantic Parsing with UCCA</b><br>
-			<u>Weimin Lyu</u>, Sheng Huang, Abdul Rafae Khan, Shengqiang Zhang, Weiwei Sun, Jia Xu<br>
-			<em>In Proceedings of the 13th International Workshop on Semantic Evaluation at Association for Computational Linguistics (<b>SemEval@ACL</b>), 2019</em> (<b style="color:red;">Student Scholarship</b>)<br>
-			[<a href="https://aclanthology.org/S19-2012/" target="_blank" rel="nofollow">ACL</a>][<a href="https://github.com/weimin17/SemEval2019-task1" target="_blank" rel="nofollow">Code</a>]<br>
-		</div>
-	</div>
-</div>
-
- -->
+</section>

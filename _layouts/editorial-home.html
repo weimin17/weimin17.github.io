@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ site.locale | default: 'en-US' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% include seo.html %}
+  <link rel="stylesheet" href="{{ '/assets/css/editorial-home.css' | relative_url }}">
+  <script src="{{ '/assets/js/publication-authors.js' | relative_url }}" defer></script>
+</head>
+<body class="homepage editorial-home">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <nav class="section-nav" aria-label="Homepage sections">
+    <div class="nav-inner">
+      <a class="nav-name" href="#top">{{ site.author.name | escape }}</a>
+      <a href="#about">About</a>
+      <a href="#research-interests">Research Interests</a>
+      <a href="#news">News</a>
+      <a href="#selected-publications">Selected Publications</a>
+    </div>
+  </nav>
+  <div class="page" id="top">
+    <header class="profile-header">
+      <img class="portrait" src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name | escape }}" width="180" height="235" fetchpriority="high">
+      <div class="profile-text">
+        <h1>{{ site.author.name | escape }}</h1>
+        <p class="eyebrow">{{ page.profile_role | escape }}</p>
+        <p class="tagline">{{ site.author.bio | split: '<br>' | last }}</p>
+        <p class="contact-links">
+          {% for link in site.author.links %}
+          <a href="{{ link.url | escape }}">{{ link.label | replace: 'Linkedin', 'LinkedIn' | escape }}</a>
+          {% endfor %}
+        </p>
+      </div>
+    </header>
+    <main id="main">
+      {{ content }}
+    </main>
+    <footer><p>© {{ site.time | date: '%Y' }} {{ site.author.name | escape }}</p></footer>
+  </div>
+  {% if jekyll.environment == 'production' %}{% include analytics.html %}{% endif %}
+</body>
+</html>
