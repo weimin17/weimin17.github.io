@@ -1,41 +1,5 @@
 [
   {
-    "id": "locpath",
-    "title": "LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models",
-    "year": 2027,
-    "venue": "WACV 2027",
-    "url": "https://arxiv.org/abs/2512.05391",
-    "authors": [
-      {
-        "name": "Qingqiao Hu"
-      },
-      {
-        "name": "Weimin Lyu"
-      },
-      {
-        "name": "Meilong Xu"
-      },
-      {
-        "name": "Xiaoling Hu"
-      },
-      {
-        "name": "Kehan Qi"
-      },
-      {
-        "name": "Saumya Gupta"
-      },
-      {
-        "name": "Jiawei Zhou"
-      },
-      {
-        "name": "Chao Chen"
-      }
-    ],
-    "code_url": "https://github.com/WinstonHuTiger/loc_path",
-    "note": "Accepted in 2026",
-    "suppress_note": true
-  },
-  {
     "id": "momatune",
     "title": "MoMaTune: Model, Match, Then Tune Language Models for Numerical Records",
     "year": 2026,
@@ -109,6 +73,42 @@
         "name": "Yi Liu"
       }
     ]
+  },
+  {
+    "id": "locpath",
+    "title": "LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models",
+    "year": 2027,
+    "venue": "WACV 2027",
+    "url": "https://arxiv.org/abs/2512.05391",
+    "authors": [
+      {
+        "name": "Qingqiao Hu"
+      },
+      {
+        "name": "Weimin Lyu"
+      },
+      {
+        "name": "Meilong Xu"
+      },
+      {
+        "name": "Xiaoling Hu"
+      },
+      {
+        "name": "Kehan Qi"
+      },
+      {
+        "name": "Saumya Gupta"
+      },
+      {
+        "name": "Jiawei Zhou"
+      },
+      {
+        "name": "Chao Chen"
+      }
+    ],
+    "code_url": "https://github.com/WinstonHuTiger/loc_path",
+    "note": "Accepted in 2026",
+    "suppress_note": true
   },
   {
     "id": "opera",

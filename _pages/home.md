@@ -58,21 +58,14 @@ I received my Ph.D. in Computer Science from Stony Brook University, advised by 
 <section class="section" id="news" markdown="1">
 <h2>News</h2>
 
-<div class="news-scroll" role="region" aria-label="Latest news" tabindex="0" markdown="1">
+<div class="news-scroll" role="region" aria-label="News" tabindex="0" markdown="1">
 
 - **2026-10:** First-authored [MoMaTune](https://arxiv.org/abs/2610.15235) is on arXiv: a two-stage training recipe (continued pretraining → consistency → SFT) that fixes decoder LMs on numerical records, 1.5B–27B.
 - **2026-08:** First-authored [PACEShop](https://aclanthology.org/2026.findings-emnlp.2121/) accepted to EMNLP 2026 Findings: a 22k-record benchmark and a training-free structured judge for personalized shopping assistants.
+- **2026-06:** [LoC-Path](https://arxiv.org/abs/2512.05391) accepted to WACV 2027.
 - **2026-05:** [Representation backdoor on CLIP via concept confusion](https://openreview.net/forum?id=jQ91DETUIr) accepted to TMLR (co-first author).
 - **2026-04:** [OPERA](https://aclanthology.org/2026.acl-long.2033/) accepted to ACL 2026 Main.
 - **2026-02:** [Act Like a Pathologist](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper.html) accepted to CVPR 2026.
-- **Accepted:** [LoC-Path](https://arxiv.org/abs/2512.05391) accepted to WACV 2027.
-
-</div>
-
-<details class="older-news">
-<summary>Older News</summary>
-<div markdown="1">
-
 - 2025-08: Successfully defended my PhD thesis!
 - 2025-06: I’m honored to receive the prestigious [Catacosinos Fellowship](https://www.cs.stonybrook.edu/about-us/News/three-doctoral-students-receive-catacosinos-fellowship-excellence-computer-science), awarded annually to outstanding PhD students at Stony Brook University - only three winners this year!
 - 2025-05: Two papers accepted to ACL 2025! [CalD](https://aclanthology.org/2025.acl-long.1424/), led by Chenlu and [Prof. Ritwik Banerjee](https://www.ritwikbanerjee.com/), proposes an efficient framework for detecting deviant or nuanced language using smaller models. [RPA Evaluation](https://aclanthology.org/2025.findings-acl.938/), led by Chaoran, Bingsheng and [Prof. Dakuo Wang](https://www.dakuowang.com/), presents a comprehensive guideline for evaluating LLM-based role-playing agents.
@@ -89,7 +82,6 @@ I received my Ph.D. in Computer Science from Stony Brook University, advised by 
 - 2020-09: Start my Computer Science Ph.D. journey at Stony Brook University!
 
 </div>
-</details>
 
 </section>
 
